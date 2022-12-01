@@ -1,43 +1,67 @@
-#EXTM3U
-#EXTINF:-1  tvg-name="WC 01" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC FHD" :http-referrer="",WC 01
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/master/sites/tvtv.us/tvtv.us_us.channels.xml"
+#EXTINF:-1  tvg-name="#1 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC FHD" :http-referrer="",#1 BBC
 https://playing.tunnelcdnsw.net/live/bbconeuk/index.m3u8
-#EXTINF:-1  tvg-name="WC 02" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC FHD" :http-referrer="",WC 02
+#EXTINF:-1  tvg-name="#2 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC FHD" :http-referrer="",#2 BBC
 https://playing.whydontyoustreamwme.com/live/bbctwouk/index.m3u8
-#EXTINF:-1  tvg-name="WC 03" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC FHD" :http-referrer="",WC 03
+#EXTINF:-1  tvg-name="#3 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC FHD" :http-referrer="",#3 BBC
 https://playing.goforfreedomwme.net/live/bbconeuk/index.m3u8
-#EXTINF:-1  tvg-name="WC 04" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC FHD" :http-referrer="",WC 04
+#EXTINF:-1  tvg-name="#4 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC FHD" :http-referrer="",#4 BBC
 https://turnthe.gameon.tel/live/bbconeuk/index.m3u8
-#EXTINF:-1  tvg-name="WC 05" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC FHD" :http-referrer="",WC 05
+#EXTINF:-1  tvg-name="#5 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC FHD" :http-referrer="",#5 BBC
 https://turnthe.gameon.tel/live/bbctwouk/index.m3u8
-#EXTINF:-1  tvg-name="WC 06" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC FHD" :http-referrer="",WC 05
+#EXTINF:-1  tvg-name="#6 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC FHD" :http-referrer="",#6 BBC
 https://playing.smoothlikebutterstream.com/live/bbconeuk/index.m3u8
 
 
-#EXTINF:-1  tvg-name="WC 07" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS FHD" :http-referrer="",WC 06
+#EXTINF:-1  tvg-name="#1 FS/FOX" tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS FHD" :http-referrer="",#1 FS/FOX
 https://playing.tunnelcdnsw.net/live/fs1us/index.m3u8
-#EXTINF:-1  tvg-name="WC 08" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS FHD" :http-referrer="",WC 07
+#EXTINF:-1  tvg-name="#2 FS/FOX" tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS FHD" :http-referrer="",#2 FS/FOX
 https://playing.whydontyoustreamwme.com/live/fs1us/index.m3u8
-#EXTINF:-1  tvg-name="WC 09" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS FHD" :http-referrer="",WC 08
+#EXTINF:-1  tvg-name="#3 FS/FOX" tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS FHD" :http-referrer="",#3 FS/FOX
 https://playing.tunnelcdnsw.net/live/fs2us/index.m3u8
+#EXTINF:-1  tvg-name="#4 FS/FOX" tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS FHD" :http-referrer="",#4 FS/FOX
+https://turnthe.gameon.tel/live/fs1us/index.m3u8
+#EXTINF:-1  tvg-name="#5 FS/FOX" tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS FHD" :http-referrer="",#5 FS/FOX
+https://turnthe.gameon.tel/live/fs2us/index.m3u8
 
-#EXTINF:-1  tvg-name="WC 10" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC HD" :http-referrer="",WC 09
+
+#EXTINF:-1  tvg-name="#1 ITV" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 ITV SPORTS FHD" :http-referrer="",#1 ITV
+https://playing.smoothlikebutterstream.com/live/itvuk/index.m3u8
+#EXTINF:-1  tvg-name="#2 ITV" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 ITV SPORTS FHD" :http-referrer="",#2 ITV
+https://playing.smoothlikebutterstream.com/live/itv4uk/index.m3u8
+
+
+#EXTINF:-1  tvg-name="#1 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC HD" :http-referrer="",#1 BBC
 https://playing.whydontyoustreamwme.com/live/bbctwouk_720p/index.m3u8
-#EXTINF:-1  tvg-name="WC 11" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC HD" :http-referrer="",WC 10
+#EXTINF:-1  tvg-name="#2 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC HD" :http-referrer="",#2 BBC
 https://playing.goforfreedomwme.net/live/bbconeuk_720p/index.m3u8
-#EXTINF:-1  tvg-name="WC 12" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC HD" :http-referrer="",WC 11
+#EXTINF:-1  tvg-name="#3 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC HD" :http-referrer="",#3 BBC
 https://playing.tunnelcdnsw.net/live/bbctwouk_720p/index.m3u8
-#EXTINF:-1  tvg-name="WC 13" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC HD" :http-referrer="",WC 12
+#EXTINF:-1  tvg-name="#4 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC HD" :http-referrer="",#4 BBC
 https://playing.smoothlikebutterstream.com/live/bbconeuk_720p/index.m3u8
-#EXTINF:-1  tvg-name="WC 14" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC HD" :http-referrer="",WC 13
+#EXTINF:-1  tvg-name="#5 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC HD" :http-referrer="",#5 BBC
 https://playing.tunnelcdnsw.net/live/bbconeuk_720p/index.m3u8
 
-#EXTINF:-1  tvg-name="WC 15" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS HD" :http-referrer="",WC 14
+
+#EXTINF:-1  tvg-name="#1 FS/FOX" tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS HD" :http-referrer="",#1 FS/FOX
 https://playing.smoothlikebutterstream.com/live/fs1us_720p/index.m3u8
-#EXTINF:-1  tvg-name="WC 16" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS HD" :http-referrer="",WC 15
+#EXTINF:-1  tvg-name="#2 FS/FOX" tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS HD" :http-referrer="",#2 FS/FOX
 https://playing.whydontyoustreamwme.com/live/fs2us_720p/index.m3u8
-#EXTINF:-1  tvg-name="WC 17" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS HD" :http-referrer="",WC 15
+#EXTINF:-1  tvg-name="#3 FS/FOX" tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS HD" :http-referrer="",#3 FS/FOX
 https://playing.tunnelcdnsw.net/live/fs1us_720p/index.m3u8
-#EXTINF:-1  tvg-name="WC 18" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS HD" :http-referrer="",WC 15
+#EXTINF:-1  tvg-name="#4 FS/FOX" tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS HD" :http-referrer="",#4 FS/FOX
 https://playing.tunnelcdnsw.net/live/fs2us_720p/index.m3u8
-#EXTINF:-1  tvg-name="WC 19" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS HD" :http-referrer="",WC 15
+#EXTINF:-1  tvg-name="#5 FS/FOX" tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS HD" :http-referrer="",#5 FS/FOX
 https://turnthe.gameon.tel/live/fs1us_720p/index.m3u8
+
+
+#EXTINF:-1  tvg-name="#1 ITV" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 ITV SPORTS HD" :http-referrer="",#1 ITV
+https://playing.goforfreedomwme.net/live/itvuk_720p/index.m3u8
+#EXTINF:-1  tvg-name="#2 ITV" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 ITV SPORTS HD" :http-referrer="",#2 ITV
+https://playing.goforfreedomwme.net/live/itv4uk_720p/index.m3u8
+
+
+#EXTINF:-1  tvg-name="#1 ITV" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 ITV SPORTS SD" :http-referrer="",#1 ITV
+https://playing.tunnelcdnsw.net/live/itvuk_360p/index.m3u8
+#EXTINF:-1  tvg-name="#2 ITV" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 ITV SPORTS SD" :http-referrer="",#2 ITV
+https://playing.tunnelcdnsw.net/live/itv4uk_360p/index.m3u8
