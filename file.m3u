@@ -58,6 +58,8 @@ https://turnthe.gameon.tel/live/fs1us/index.m3u8
 https://turnthe.gameon.tel/live/fs2us/index.m3u8
 #EXTINF:-1  tvg-name="#6 FS/FOX" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS FHD" :http-referrer="",#6 FS/FOX
 https://playing.smoothlikebutterstream.com/live/fs2us/index.m3u8
+#EXTINF:-1  tvg-name="#7 FS/FOX" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS FHD" :http-referrer="",#7 FS/FOX
+https://playing.goforfreedomwme.net/live/fs1us/index.m3u8
 
 
 #EXTINF:-1  tvg-name="#1 ITV" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 ITV SPORTS FHD" :http-referrer="",#1 ITV
@@ -100,6 +102,8 @@ https://playing.whydontyoustreamwme.com/live/fs1us_720p/index.m3u8
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036594
 #EXTINF:-1  tvg-name="#8 FS/FOX" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS FHD" :http-referrer="",#8 FS/FOX
 https://sv6.gdplayer.to/playlist/a2YrUk1tTlZpbkFmbCtYY01xdjY3YVJaMHJ6SWl1RGltNmlwVUtoRVBQV0tCR3VJQ3NZUmdHRGJ6RlowczBIVXhOOGtIMXdvS2FGb1pzZ1hrVGFPRmc9PQ,,/master.m3u8?token=bFVNaXlENkNyRUF2RG1nR0pnbHZZVzN6SGp6Y2JoRGIzYUdGK2x6cE5SdjB2NEU3V2EydzhCV2xWVUhIYTl1OTR4a1pWdDJrQzZaYmZCVGJxWFdmanc9PQ,,
+#EXTINF:-1  tvg-name="#9 FS/FOX" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS HD" :http-referrer="",#9 FS/FOX
+https://playing.goforfreedomwme.net/live/fs1us_720p/index.m3u8
 
 
 
@@ -127,6 +131,8 @@ https://sv4.gdplayer.to/playlist/UXJENzVxejd5UWRuUHk0NXRMcVdMcUdDZ3ZZOTlQZ2N1MGJ
 https://playing.goforfreedomwme.net/live/bbconeuk_360p/index.m3u8
 #EXTINF:-1  tvg-name="#2 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC SPORTS SD" :http-referrer="",#2 BBC
 https://playing.smoothlikebutterstream.com/live/bbctwouk_360p/index.m3u8
+#EXTINF:-1  tvg-name="#3 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC SPORTS SD" :http-referrer="",#3 BBC
+https://playing.smoothlikebutterstream.com/live/bbconeuk_360p/index.m3u8
 
 
 #EXTINF:-1  tvg-name="#1 ITV" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 ITV SPORTS SD" :http-referrer="",#1 ITV
