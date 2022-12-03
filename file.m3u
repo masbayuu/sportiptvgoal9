@@ -1,7 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-name="#1 Astro FWC 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 Astro FHD" :http-referrer="",#1 Astro FWC 2
+#EXTINF:-1 tvg-id="" tvg-name="#1 Astro FWC 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WORLD CUP 2022 Astro FHD",#1 Astro FWC 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium294/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5090
+@EXTINF:-1 tvg-id="" tvg-name="#2 Astro FWC 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WORLD CUP 2022 Astro FHD",#2 Astro FWC 1
+http://linears-playback.astro.com.my/vsg/41ndk0-eDLDJS0TwkNuO2uyOAWpUNXagZxVU4b9gKDc_8=l3RR/dash-wv/jitp-linearwm/5090/default_primary.mpd
+
+#EXTINF:-1  tvg-name="#3 Astro FWC 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 Astro FHD" :http-referrer="",#3 Astro FWC 2
 https://sv4.gdplayer.to/playlist/ZnZiQUYwNnRBOVRzajQydVU1QzFRZStZaVJ6LzIwS0ZqNVNvMnNkR2c1bzF4VnNPZXZ5NEpsanJVUVdDYjhTSytxdzh0WTZhVVpTS0lvS1JPcjBCOHc9PQ,,/master.m3u8?token=VkE0S3BpZSs3a2J4Sjd3QW51a0NCZDN1TDdNYitCZWxaMVJnNG5obEZzTzUyM25xSU9qbHdKNW1YcSttdDFlNkRqWmZ0Nkh5akNiR3Z0a0VvbWx2bUE9PQ,,
+
+#EXTINF:-1 tvg-id="" tvg-name="#4 Astro FWC 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WORLD CUP 2022 Astro FHD",#4 Astro FWC 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium295/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5091
+@EXTINF:-1 tvg-id="" tvg-name="#4 Astro FWC 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WORLD CUP 2022 Astro FHD",#4 Astro FWC 2
+http://linears-playback.astro.com.my/vsg/415IyuP-r1XOhScyM_2pR8ttoUZ9aaOQwTxTVsibDxBxc=HXxA/dash-wv/jitp-linearwm/5091/default_primary.mpd
+
 
 
 #EXTINF:-1  tvg-name="#1 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC FHD" :http-referrer="",#1 BBC
