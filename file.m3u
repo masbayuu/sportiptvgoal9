@@ -12,16 +12,17 @@ http://linears-playback.astro.com.my/vsg/41ndk0-eDLDJS0TwkNuO2uyOAWpUNXagZxVU4b9
 
 #EXTINF:-1  tvg-name="#3 Astro FWC 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 Astro FHD" :http-referrer="",#3 Astro FWC 2
 https://sv4.gdplayer.to/playlist/ZnZiQUYwNnRBOVRzajQydVU1QzFRZStZaVJ6LzIwS0ZqNVNvMnNkR2c1bzF4VnNPZXZ5NEpsanJVUVdDYjhTSytxdzh0WTZhVVpTS0lvS1JPcjBCOHc9PQ,,/master.m3u8?token=VkE0S3BpZSs3a2J4Sjd3QW51a0NCZDN1TDdNYitCZWxaMVJnNG5obEZzTzUyM25xSU9qbHdKNW1YcSttdDFlNkRqWmZ0Nkh5akNiR3Z0a0VvbWx2bUE9PQ,,
+#EXTINF:-1  tvg-name="#4 Astro FWC 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 Astro FHD" :http-referrer="",#4 Astro FWC 2
 https://sv5.gdplayer.to/playlist/VFlQM1hzNTBad29EdDBGbGs5YWUwV0hPdVNRaDFVU0psWUE2NEJPNkgxVGxqUE43Q1FxTkxLK01lMGQ2NW5MWFdYRHZMKzhXdHlMTkd0UUo1MFoxM1E9PQ,,/master.m3u8?token=bk91eEY0RGhWL1BQLzcvZE1GMUFyT2dYbWYyeWdSUG5qZEdNMjZmOVBHWWV2eThZb3hjcGhNWVJ0QVQwTzBxZHVOdUpvazJnNnF1cytmLzNrOWpYWEE9PQ,,
 
-#EXTINF:-1 tvg-id="" tvg-name="#4 Astro FWC 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WORLD CUP 2022 Astro FHD",#4 Astro FWC 2
+#EXTINF:-1 tvg-id="" tvg-name="#5 Astro FWC 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WORLD CUP 2022 Astro FHD",#5 Astro FWC 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium295/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5091
-#EXTINF:-1 tvg-id="" tvg-name="#5 Astro FWC 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WORLD CUP 2022 Astro FHD",#5 Astro FWC 2
+#EXTINF:-1 tvg-id="" tvg-name="#6 Astro FWC 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WORLD CUP 2022 Astro FHD",#6 Astro FWC 2
 http://linears-playback.astro.com.my/vsg/415IyuP-r1XOhScyM_2pR8ttoUZ9aaOQwTxTVsibDxBxc=HXxA/dash-wv/jitp-linearwm/5091/default_primary.mpd
 
 
@@ -129,15 +130,15 @@ https://sv5.gdplayer.to/playlist/R2QzdTdwam90NHBFOFhQUHJvVEtxam9pK1hSNkxYUGNsUGF
 https://sv4.gdplayer.to/playlist/UXJENzVxejd5UWRuUHk0NXRMcVdMcUdDZ3ZZOTlQZ2N1MGJVcmFxVDFVUGFPTHE2TGhaYndwRnhwUjF6RU5SL1BBRnV5NnhoWG9WdHVUU3luMGxDWXNNbm9QUjhnRWlUdUpRK05ZemRHbkE9/ddy6/premium114/tracks-v1a1/mono.m3u8?data=N0FuanUrNmlQZHZIS0FFVElxWlBpM2YwWHY3VUpLTnRES09TdFBVQWQzZE5jN01PNG9uaWJ2QWJPRUdjNWsreWNVU1lsdGxBczd5NHZSa0RVZzMyc29NZDR0TW91SmdkVmZ2VE82eStOQUVIOWFnd0liNk1BQnZEQklxak5RQnA2d3hlc0k0VTlrQ2FMOHRkK0F2aERRPT0,&live=false&token=VkE0S3BpZSs3a2J4Sjd3QW51a0NCZDN1TDdNYitCZWxaMVJnNG5obEZzTzUyM25xSU9qbHdKNW1YcSttdDFlNkRqWmZ0Nkh5akNiR3Z0a0VvbWx2bUE9PQ,,
 
 
-#EXTINF:-1  tvg-name="#1 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC SPORTS SD" :http-referrer="",#1 BBC
+#EXTINF:-1  tvg-name="#1 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC SD" :http-referrer="",#1 BBC
 https://playing.goforfreedomwme.net/live/bbconeuk_360p/index.m3u8
-#EXTINF:-1  tvg-name="#2 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC SPORTS SD" :http-referrer="",#2 BBC
+#EXTINF:-1  tvg-name="#2 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC SD" :http-referrer="",#2 BBC
 https://playing.smoothlikebutterstream.com/live/bbctwouk_360p/index.m3u8
-#EXTINF:-1  tvg-name="#3 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC SPORTS SD" :http-referrer="",#3 BBC
+#EXTINF:-1  tvg-name="#3 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC SD" :http-referrer="",#3 BBC
 https://playing.smoothlikebutterstream.com/live/bbconeuk_360p/index.m3u8
-#EXTINF:-1  tvg-name="#4 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC SPORTS SD" :http-referrer="",#4 BBC
+#EXTINF:-1  tvg-name="#4 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC SD" :http-referrer="",#4 BBC
 https://playing.whydontyoustreamwme.com/live/bbconeuk_360p/index.m3u8
-#EXTINF:-1  tvg-name="#5 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC SPORTS SD" :http-referrer="",#5 BBC
+#EXTINF:-1  tvg-name="#5 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC SD" :http-referrer="",#5 BBC
 https://playing.tunnelcdnsw.net/live/bbconeuk_360p/index.m3u8
 
 
