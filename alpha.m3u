@@ -45,7 +45,7 @@ https://t8.switchcast2.com:999/hls/espnusa.m3u8|ExoPlayerLib/2.13.2=&referer=htt
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webdi.openhd.lol/cdn/eplayerespn_usa/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="BEIN SPORTS QATAR",9
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="BEIN SPORTS QATAR",10
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webdi.openhd.lol/ddyx2/premium294/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
