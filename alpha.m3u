@@ -80,12 +80,12 @@ https://webdi.openhd.lol/ddy6/premium114/index.m3u8|ExoPlayerLib/2.13.2=&referer
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webdi.openhd.lol/ddy6/premium115/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qimdreM.png" group-title="SPORTS",FS 1 USA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MnfNlPQ.png" group-title="SPORTS",FS 1 USA HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webdi.openhd.lol/ddy1/premium54/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MnfNlPQ.png" group-title="SPORTS",Fox Sports 1 USA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qimdreM.png" group-title="SPORTS",Fox Sports 1 USA HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webdi.openhd.lol/ddy1/premium39/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
@@ -100,7 +100,7 @@ https://webdi.openhd.lol/ddyx2/premium294/index.m3u8|ExoPlayerLib/2.13.2=&refere
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webdi.openhd.lol/ddyx2/premium295/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="SPORTS",ITV 1 UK HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/84115552985051f281713aeeb4d83d6a.png" group-title="SPORTS",ITV 1 UK HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webdi.openhd.lol/ddy1/premium350/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
