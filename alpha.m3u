@@ -1,51 +1,106 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="BEIN SPORTS QATAR",1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webdi.openhd.lol/ddy6/premium111/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="BEIN SPORTS QATAR",2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webdi.openhd.lol/cdn/eplayerespn_usa/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="BEIN SPORTS QATAR",3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="SPORTS",BT SPORT 1 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webdi.openhd.lol/ddy1/premium31/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="BEIN SPORTS QATAR",4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webdi.openhd.lol/cdn/premium35/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="BEIN SPORTS QATAR",5
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="SPORTS",BT SPORT 2 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webdi.openhd.lol/ddy1/premium32/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="BEIN SPORTS QATAR",6
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="SPORTS",BT SPORT 3 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webdi.openhd.lol/ddy1/premium350/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+https://webdi.openhd.lol/ddy1/premium33/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="BEIN SPORTS QATAR",7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gyTJhVr.png" group-title="SPORTS",BT SPORT 4 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy1/premium34/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jM1FeOX.png" group-title="SPORTS",Sky Sports Action HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy4/premium37/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eZwExGu.png" group-title="SPORTS",Sky Sports Arena HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy5/premium36/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J8zzS2v.png" group-title="SPORTS",Sky Sports Cricket HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy1/premium65/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2kPW5qw.png" group-title="SPORTS",Sky Sports F1 UK HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy1/premium60/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EcFwNdj.png" group-title="SPORTS",Sky Sports Football HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/cdn/premium35/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KHiae2e.png" group-title="SPORTS",Sky Sports Main Event HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy5/premium38/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="SPORTS",Sky Sports Premier League HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddyx2/premium130/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/v48ueao.png" group-title="SPORTS",TSN1 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy6/premium111/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HvPyPov.png" group-title="SPORTS",TSN2 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy6/premium112/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NwjWSff.png" group-title="SPORTS",TSN3 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy6/premium113/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5aQ01F1.png" group-title="SPORTS",TSN4 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy6/premium114/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uoy75nW.png" group-title="SPORTS",TSN5 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy6/premium115/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qimdreM.png" group-title="SPORTS",FS 1 USA HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy1/premium54/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MnfNlPQ.png" group-title="SPORTS",Fox Sports 1 USA HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webdi.openhd.lol/ddy1/premium39/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="BEIN SPORTS QATAR",8
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://t8.switchcast2.com:999/hls/espnusa.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="BEIN SPORTS QATAR",9
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webdi.openhd.lol/cdn/eplayerespn_usa/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="BEIN SPORTS QATAR",10
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="SPORTS",Astro FWC 1 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webdi.openhd.lol/ddyx2/premium294/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="SPORTS",Astro FWC 2 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddyx2/premium295/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="SPORTS",ITV 1 UK HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy1/premium350/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
