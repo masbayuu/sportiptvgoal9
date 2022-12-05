@@ -104,3 +104,68 @@ https://webdi.openhd.lol/ddyx2/premium295/index.m3u8|ExoPlayerLib/2.13.2=&refere
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webdi.openhd.lol/ddy1/premium350/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XO9yr6R.png" group-title="SPORTS",Supersport Action HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy6/premium420/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Vt3RvFA.png" group-title="SPORTS",Supersport Football HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy1/premium56/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YcxFkX8.png" group-title="SPORTS",Supersport Golf HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy6/premium422/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3bXUFkP.png" group-title="SPORTS",Supersport Grandstand HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy6/premium412/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jIjBIhH.png" group-title="SPORTS",Supersport LaLiga HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy6/premium415/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jIjBIhH.png" group-title="SPORTS",Supersport Premier League HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy6/premium414/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cXB0iFd.png" group-title="SPORTS",Supersport PSL HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/cdn/premium413/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sglWngc.png" group-title="SPORTS",Supersport Rugby HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy6/premium421/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uBflRxR.png" group-title="SPORTS",Supersport Tennis HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy6/premium423/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LD6Yrnx.png" group-title="SPORTS",Supersport Variety 1 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy6/premium416/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/samKsMn.png" group-title="SPORTS",Supersport Variety 2 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy6/premium417/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/neD5gBe.png" group-title="SPORTS",Supersport Variety 3 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy6/premium418/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Xn5UCd8.png" group-title="SPORTS",Supersport Variety 4 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddy6/premium419/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
