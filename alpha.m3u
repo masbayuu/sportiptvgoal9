@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qimdreM.png" group-title="TES",FOX SPORTS 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://t3.switchcast2.com:999/hls/usafox1.m3u8|Referer=https://wikisport.click/fsl/fs10.php
+https://t3.switchcast2.com:999/hls/usafox1.m3u8|Referer=https://wikisport.click/fsl/fs10.php?id=647169
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="SPORTS",BT SPORT 1 HD
 #KODIPROP:inputstream=inputstream.adaptive
