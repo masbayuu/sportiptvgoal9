@@ -1,8 +1,23 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="INDOSIAR" tvg-id="" tvg-logo="http://i.postimg.cc/4dLYT5nL/13-ACEF1-E-DBF9-4237-AFD6-6-E25-EF27-C8-DC.png" group-title="LOKAL" :http-referrer="",INDOSIAR
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://bit.ly/iReg-IndoSiar
 
-#EXTINF:-1  tvg-name="SCTV" tvg-id="" tvg-logo="http://images.useetv.com/logo_sctv_big1.pngg" group-title="LOKAL" :http-referrer="",SCTV
-http://id2.indostreamingtv.com/live/tv2/index.m3u8
+#EXTINF:-1  tvg-name="AUS | ORF 1 FHD" tvg-id="" tvg-logo="http://images.useetv.com/logo_sctv_big1.pngg" group-title="LOKAL" :http-referrer="",AUS | ORF 1 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036577
+
+#EXTINF:-1  tvg-name="UK | BBC 1 HD" tvg-id="" tvg-logo="http://images.useetv.com/logo_sctv_big1.pngg" group-title="LOKAL" :http-referrer="",UK | BBC 1 HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036597
+
+#EXTINF:-1  tvg-name="UK | ITV 1 HEVC" tvg-id="" tvg-logo="http://images.useetv.com/logo_sctv_big1.pngg" group-title="LOKAL" :http-referrer="",UK | ITV 1 HEVC
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036596
+
+#EXTINF:-1  tvg-name="US | FOX HD" tvg-id="" tvg-logo="http://images.useetv.com/logo_sctv_big1.pngg" group-title="LOKAL" :http-referrer="",US | FOX HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036594
+
+#EXTINF:-1  tvg-name="AR | BEIN SPORTS MAX 3 HEVC" tvg-id="" tvg-logo="http://images.useetv.com/logo_sctv_big1.pngg" group-title="LOKAL" :http-referrer="",AR | BEIN SPORTS MAX 3 HEVC
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049166
+
+#EXTINF:-1  tvg-name="AR| BEIN SPORTS MAX 3 4K" tvg-id="" tvg-logo="http://images.useetv.com/logo_sctv_big1.pngg" group-title="LOKAL" :http-referrer="",AR| BEIN SPORTS MAX 3 4K
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049168
+
+#EXTINF:-1  tvg-name="AR | BEIN SPORTS MAX 3 HD" tvg-id="" tvg-logo="http://images.useetv.com/logo_sctv_big1.pngg" group-title="LOKAL" :http-referrer="",AR | BEIN SPORTS MAX 3 HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049167
+
