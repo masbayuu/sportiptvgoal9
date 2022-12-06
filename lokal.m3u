@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="#1 ITV" tvg-id="" tvg-logo="http://i.postimg.cc/4dLYT5nL/13-ACEF1-E-DBF9-4237-AFD6-6-E25-EF27-C8-DC.png" group-title="LOKAL" :http-referrer="",#1 ITV
+#EXTINF:-1  tvg-name="#1 ITV" tvg-id="" tvg-logo="http://i.postimg.cc/4dLYT5nL/13-ACEF1-E-DBF9-4237-AFD6-6-E25-EF27-C8-DC.png" group-title="LOKAL" :http-referrer="",INDOSIAR
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 http://bit.ly/iReg-IndoSiar
