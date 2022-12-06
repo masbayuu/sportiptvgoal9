@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qimdreM.png" group-title="TES",FOX SPORTS 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://t3.switchcast2.com:999/hls/usafox1.m3u8?md5=3ekdU84g3UM__kupmMn_WQ&expires=1670324710
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="SPORTS",BT SPORT 1 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
