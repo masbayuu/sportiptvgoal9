@@ -5,26 +5,20 @@
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium294/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5090
 #EXTINF:-1 tvg-id="" tvg-name="#2 Astro FWC 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WORLD CUP 2022 Astro FHD",#2 Astro FWC 1
-http://linears-playback.astro.com.my/vsg/41ndk0-eDLDJS0TwkNuO2uyOAWpUNXagZxVU4b9gKDc_8=l3RR/dash-wv/jitp-linearwm/5090/default_primary.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddyx2/premium294/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1  tvg-name="#3 Astro FWC 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 Astro FHD" :http-referrer="",#3 Astro FWC 2
-https://sv4.gdplayer.to/playlist/ZnZiQUYwNnRBOVRzajQydVU1QzFRZStZaVJ6LzIwS0ZqNVNvMnNkR2c1bzF4VnNPZXZ5NEpsanJVUVdDYjhTSytxdzh0WTZhVVpTS0lvS1JPcjBCOHc9PQ,,/master.m3u8?token=VkE0S3BpZSs3a2J4Sjd3QW51a0NCZDN1TDdNYitCZWxaMVJnNG5obEZzTzUyM25xSU9qbHdKNW1YcSttdDFlNkRqWmZ0Nkh5akNiR3Z0a0VvbWx2bUE9PQ,,
-#EXTINF:-1  tvg-name="#4 Astro FWC 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 Astro FHD" :http-referrer="",#4 Astro FWC 2
-https://sv5.gdplayer.to/playlist/VFlQM1hzNTBad29EdDBGbGs5YWUwV0hPdVNRaDFVU0psWUE2NEJPNkgxVGxqUE43Q1FxTkxLK01lMGQ2NW5MWFdYRHZMKzhXdHlMTkd0UUo1MFoxM1E9PQ,,/master.m3u8?token=bk91eEY0RGhWL1BQLzcvZE1GMUFyT2dYbWYyeWdSUG5qZEdNMjZmOVBHWWV2eThZb3hjcGhNWVJ0QVQwTzBxZHVOdUpvazJnNnF1cytmLzNrOWpYWEE9PQ,,
-
-#EXTINF:-1 tvg-id="" tvg-name="#5 Astro FWC 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WORLD CUP 2022 Astro FHD",#5 Astro FWC 2
+#EXTINF:-1 tvg-id="" tvg-name="#3 Astro FWC 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WORLD CUP 2022 Astro FHD",#3 Astro FWC 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium295/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5091
-#EXTINF:-1 tvg-id="" tvg-name="#6 Astro FWC 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WORLD CUP 2022 Astro FHD",#6 Astro FWC 2
-http://linears-playback.astro.com.my/vsg/415IyuP-r1XOhScyM_2pR8ttoUZ9aaOQwTxTVsibDxBxc=HXxA/dash-wv/jitp-linearwm/5091/default_primary.mpd
-
+#EXTINF:-1 tvg-id="" tvg-name="#4 Astro FWC 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WORLD CUP 2022 Astro FHD",#4 Astro FWC 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddyx2/premium295/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 
 #EXTINF:-1  tvg-name="#1 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC FHD" :http-referrer="",#1 BBC
@@ -42,10 +36,6 @@ https://playing.smoothlikebutterstream.com/live/bbconeuk/index.m3u8
 #EXTINF:-1  tvg-name="#7 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC FHD" :http-referrer="",#7 BBC
 https://playing.smoothlikebutterstream.com/live/bbctwouk/index.m3u8
 #EXTINF:-1  tvg-name="#8 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC FHD" :http-referrer="",#8 BBC
-https://sv6.gdplayer.to/playlist/bGNER2RlS0JjcmMyck5aRW1EU0c4am9EYmg1aXRmd0NlYWFmbEhLZ1dJelhGcmlkV29XV05iVko3QkFnaEQ3SHkzL1N6d3NQT0g0eXpCTEIxR1JkU0EwdExWNkt2ZGxQOHVsTEtpK1dSYmM9/ddyx2/premium356/tracks-v1a1/mono.m3u8?data=SEpka3FMUkYwQWlXQk9yek41aEpGOTNhbTBqN0R1N1g5QmR0RHljMlljSnViOW1BVEhSTU4xYXNoYXJNSDEyWksxVjhWVnJBRFFsMTlBdDlKUW8xb2FoY1R2M3Y3dkNKQzhoSldBZStZamZJMVA4RHZZckhnV0dxUXFLeC9KaHBkQXM2MXQ1R0QxcTVwOE1hUEdsdlRRPT0,&live=false&token=bFVNaXlENkNyRUF2RG1nR0pnbHZZVzN6SGp6Y2JoRGIzYUdGK2x6cE5SdjB2NEU3V2EydzhCV2xWVUhIYTl1OTR4a1pWdDJrQzZaYmZCVGJxWFdmanc9PQ,,
-#EXTINF:-1  tvg-name="#9 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC FHD" :http-referrer="",#9 BBC
-https://sv6.gdplayer.to/playlist/bGNER2RlS0JjcmMyck5aRW1EU0c4am9EYmg1aXRmd0NlYWFmbEhLZ1dJelhGcmlkV29XV05iVko3QkFnaEQ3SHkzL1N6d3NQT0g0eXpCTEIxR1JkU0EwdExWNkt2ZGxQOHVsTEtpK1dSYmM9/ddy1/premium550/tracks-v1a1/mono.m3u8?data=UExzVS9oakRJUHdyaVFGeEU2ajVkUTFGSEYvd1VYY2QyWExVWGRMZkhTR2Nra1Y3RFpvYUZ0UnA0Ujh0REJGWU4vZE1nQlg5ak5oTzhSandXR3ZyN0RhNjRpODZyNld5TXdQazFMaFN1NlJkYS8wVWJzTzNSRHhnZWJTYlFUSmVpb2JxRW1TeThaekpUMFIvNzFtVDl3PT0,&live=false&token=bFVNaXlENkNyRUF2RG1nR0pnbHZZVzN6SGp6Y2JoRGIzYUdGK2x6cE5SdjB2NEU3V2EydzhCV2xWVUhIYTl1OTR4a1pWdDJrQzZaYmZCVGJxWFdmanc9PQ,,
-#EXTINF:-1  tvg-name="#10 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC FHD" :http-referrer="",#10 BBC
 https://playing.whydontyoustreamwme.com/live/bbconeuk/index.m3u8
 
 
@@ -74,7 +64,7 @@ https://playing.smoothlikebutterstream.com/live/itv4uk/index.m3u8
 #EXTINF:-1  tvg-name="#3 ITV" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 ITV SPORTS FHD" :http-referrer="",#3 ITV
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036596
 #EXTINF:-1  tvg-name="#4 ITV" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 ITV SPORTS FHD" :http-referrer="",#4 ITV
-https://sv5.gdplayer.to/playlist/R2QzdTdwam90NHBFOFhQUHJvVEtxam9pK1hSNkxYUGNsUGFhVGdBOFZDOWp5MHZJM0twekl1QTZNWit1aUg4UEV1NXRSSko4U1BSMDlLQXRCNlRZcUxrc3NlYVVzRGdtTVZuQ3RmMjk1S0U9/ddy1/premium350/tracks-v1a1/mono.m3u8?data=anRLWmxMRHBwNmpDam1yTEpXL094R1dRQWo0RGU2eVZWNzVZc09yWFVXSnhLRExySjJ4NVNBNUZaUSthY2Nka3V5eWp4eWFBSnJjRncvUTRoMFpISG1qRDBLK2ZlOGV0TDZwRWlnVDg3dCt2cFRCYUVDdzhBTk53b01neUcwOTh1U0g0dXRkY0c5QWRqMGY0TEc4ZGJRPT0,&live=false&token=a1JnQUJ5KzYvYmpCUUI5S3QvRVJGQnB6S3VHOXB4aHZGNGJBLzE4K3Y2ME5RTEFSd1A1SWxTRnZpaTFyaldhNWtXSHdoTlFCNC9acld3L203S0l2L3c9PQ,,
+https://playing.goforfreedomwme.net/live/itvuk/index.m3u8
 
 
 #EXTINF:-1  tvg-name="#1 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC HD" :http-referrer="",#1 BBC
@@ -107,9 +97,7 @@ https://turnthe.gameon.tel/live/fs1us_720p/index.m3u8
 https://playing.whydontyoustreamwme.com/live/fs1us_720p/index.m3u8
 #EXTINF:-1  tvg-name="#7 FS/FOX" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS HD" :http-referrer="",#7 FS/FOX
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036594
-#EXTINF:-1  tvg-name="#8 FS/FOX" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS FHD" :http-referrer="",#8 FS/FOX
-https://sv6.gdplayer.to/playlist/a2YrUk1tTlZpbkFmbCtYY01xdjY3YVJaMHJ6SWl1RGltNmlwVUtoRVBQV0tCR3VJQ3NZUmdHRGJ6RlowczBIVXhOOGtIMXdvS2FGb1pzZ1hrVGFPRmc9PQ,,/master.m3u8?token=bFVNaXlENkNyRUF2RG1nR0pnbHZZVzN6SGp6Y2JoRGIzYUdGK2x6cE5SdjB2NEU3V2EydzhCV2xWVUhIYTl1OTR4a1pWdDJrQzZaYmZCVGJxWFdmanc9PQ,,
-#EXTINF:-1  tvg-name="#9 FS/FOX" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS HD" :http-referrer="",#9 FS/FOX
+#EXTINF:-1  tvg-name="#8 FS/FOX" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 FS/FOX SPORTS HD" :http-referrer="",#8 FS/FOX
 https://playing.goforfreedomwme.net/live/fs1us_720p/index.m3u8
 
 
@@ -118,20 +106,14 @@ https://playing.goforfreedomwme.net/live/fs1us_720p/index.m3u8
 https://playing.goforfreedomwme.net/live/itvuk_720p/index.m3u8
 #EXTINF:-1  tvg-name="#2 ITV" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 ITV SPORTS HD" :http-referrer="",#2 ITV
 https://playing.goforfreedomwme.net/live/itv4uk_720p/index.m3u8
+#EXTINF:-1  tvg-name="#3 ITV" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 ITV SPORTS HD" :http-referrer="",#3 ITV
+https://playing.tunnelcdnsw.net/live/itvuk_720p/index.m3u8
+#EXTINF:-1  tvg-name="#4 ITV" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 ITV SPORTS HD" :http-referrer="",#4 ITV
+https://playing.whydontyoustreamwme.com/live/itvuk_720p/index.m3u8
 
 
 #EXTINF:-1  tvg-name="#1 CTV" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 CTV SPORTS HD" :http-referrer="",#1 CTV
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036592
-
-
-#EXTINF:-1  tvg-name="#1 TSN1" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 TSN HD" :http-referrer="",#1 TSN1
-https://sv5.gdplayer.to/playlist/ZzlFRmxvTUJBVlBEZ0l5dXNEVE9kblRnVk82YzV0Q295MVVqd1JyeWJlWTVkNGZJcENVWjIyQTJuOG5aOE4yc09aSWZtYzBGNDNmd0N3Zm8rQklrSFE9PQ,,/master.m3u8?token=a1JnQUJ5KzYvYmpCUUI5S3QvRVJGQnB6S3VHOXB4aHZGNGJBLzE4K3Y2ME5RTEFSd1A1SWxTRnZpaTFyaldhNWtXSHdoTlFCNC9acld3L203S0l2L3c9PQ,,
-#EXTINF:-1  tvg-name="#2 TSN1" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 TSN HD" :http-referrer="",#2 TSN1
-https://sv5.gdplayer.to/playlist/R2QzdTdwam90NHBFOFhQUHJvVEtxam9pK1hSNkxYUGNsUGFhVGdBOFZDOWp5MHZJM0twekl1QTZNWit1aUg4UEV1NXRSSko4U1BSMDlLQXRCNlRZcUxrc3NlYVVzRGdtTVZuQ3RmMjk1S0U9/ddy6/premium111/tracks-v1a1/mono.m3u8?data=eU5HdWdEc24rZytwQlIvanhpRktzNG9XUlRMbGVvNFVCRlJnRW9HTXJMVnVsdWNkNkJmdnhWamNLSXJ3WWJ6YnZ5TkRWQ0ZCMUZ4Um9EMFZxcEpGNmVQUy9Ib1lBSVozbE94T3B2OEdMQWRWSFJkTE1KWVBTTUdEUmpnMjNYbkdqaE9YbHcyU0NSZ2xPajFBbm13Y2hBPT0,&live=false&token=a1JnQUJ5KzYvYmpCUUI5S3QvRVJGQnB6S3VHOXB4aHZGNGJBLzE4K3Y2ME5RTEFSd1A1SWxTRnZpaTFyaldhNWtXSHdoTlFCNC9acld3L203S0l2L3c9PQ,,
-#EXTINF:-1  tvg-name="#3 TSN3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 TSN HD" :http-referrer="",#3 TSN3
-https://sv5.gdplayer.to/playlist/R2QzdTdwam90NHBFOFhQUHJvVEtxam9pK1hSNkxYUGNsUGFhVGdBOFZDOWp5MHZJM0twekl1QTZNWit1aUg4UEV1NXRSSko4U1BSMDlLQXRCNlRZcUxrc3NlYVVzRGdtTVZuQ3RmMjk1S0U9/ddy6/premium113/tracks-v1a1/mono.m3u8?data=VFBMMUpLaC9SRmpSclpSekY5WDRpWGxlVzZnQ3duUURQd041cHJ3M1haUzM5ZUZFejdzdmYvejVLUlY3M0lhZkRyU3NFVnlJNitaWFh4eWt4RjRtQ0hRN0xrY0lCMEJpcE5MTnB3QUFSRGgwVXlwOU1JUzFrcTR5QlJ4NlJrc01RaXRtWmlpbkF6aE40YWdJM2RMT21nPT0,&live=false&token=a1JnQUJ5KzYvYmpCUUI5S3QvRVJGQnB6S3VHOXB4aHZGNGJBLzE4K3Y2ME5RTEFSd1A1SWxTRnZpaTFyaldhNWtXSHdoTlFCNC9acld3L203S0l2L3c9PQ,,
-#EXTINF:-1  tvg-name="#4 TSN4" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 TSN HD" :http-referrer="",#4 TSN4
-https://sv4.gdplayer.to/playlist/UXJENzVxejd5UWRuUHk0NXRMcVdMcUdDZ3ZZOTlQZ2N1MGJVcmFxVDFVUGFPTHE2TGhaYndwRnhwUjF6RU5SL1BBRnV5NnhoWG9WdHVUU3luMGxDWXNNbm9QUjhnRWlUdUpRK05ZemRHbkE9/ddy6/premium114/tracks-v1a1/mono.m3u8?data=N0FuanUrNmlQZHZIS0FFVElxWlBpM2YwWHY3VUpLTnRES09TdFBVQWQzZE5jN01PNG9uaWJ2QWJPRUdjNWsreWNVU1lsdGxBczd5NHZSa0RVZzMyc29NZDR0TW91SmdkVmZ2VE82eStOQUVIOWFnd0liNk1BQnZEQklxak5RQnA2d3hlc0k0VTlrQ2FMOHRkK0F2aERRPT0,&live=false&token=VkE0S3BpZSs3a2J4Sjd3QW51a0NCZDN1TDdNYitCZWxaMVJnNG5obEZzTzUyM25xSU9qbHdKNW1YcSttdDFlNkRqWmZ0Nkh5akNiR3Z0a0VvbWx2bUE9PQ,,
 
 
 #EXTINF:-1  tvg-name="#1 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 BBC SD" :http-referrer="",#1 BBC
@@ -150,6 +132,10 @@ https://playing.tunnelcdnsw.net/live/bbconeuk_360p/index.m3u8
 https://playing.tunnelcdnsw.net/live/itvuk_360p/index.m3u8
 #EXTINF:-1  tvg-name="#2 ITV" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 ITV SPORTS SD" :http-referrer="",#2 ITV
 https://playing.tunnelcdnsw.net/live/itv4uk_360p/index.m3u8
+#EXTINF:-1  tvg-name="#3 ITV" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 ITV SPORTS SD" :http-referrer="",#3 ITV
+https://playing.whydontyoustreamwme.com/live/itvuk_360p/index.m3u8
+#EXTINF:-1  tvg-name="#4 ITV" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 ITV SPORTS SD" :http-referrer="",#4 ITV
+https://playing.goforfreedomwme.net/live/itvuk_360p/index.m3u8
 
 
 #EXTINF:-1  tvg-name="#1 eGG Network" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",#1 eGG Network
