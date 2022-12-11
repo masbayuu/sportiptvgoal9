@@ -177,7 +177,197 @@ http://elcom-iptv.com:8080/nihad/nihad/2695
 
 #EXTINF:-1 group-title="beIN Sport MAX FHD" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png",#1 beIN MAX 3
 http://elcom-iptv.com:8080/nihad/nihad/2712
-#EXTINF:-1 group-title="beIN Sport MAX FHD" tvg-logo="http://elcom-iptv.com:8080/images/7d0665438e81d8eceb98c1e31fca80c1.png",#1 beIN MAX 4
-http://elcom-iptv.com:8080/nihad/nihad/2684
-#EXTINF:-1 group-title="beIN Sport MAX FHD" tvg-logo="http://elcom-iptv.com:8080/images/4da33906ba00f0bdb5f0816a9fb465f5.png",#2 beIN MAX 4
+#EXTINF:-1 group-title="beIN Sport MAX FHD" tvg-logo="http://elcom-iptv.com:8080/images/4da33906ba00f0bdb5f0816a9fb465f5.png",#1 beIN MAX 4
 http://elcom-iptv.com:8080/nihad/nihad/2713
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/BVNRjXc/acc-network-us.png",SPT | ACC NETWORK
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2165
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/PW5zDBB/altitude-sports-us.png",SPT | ALTITUDE SPORTS
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2166
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Sy9w2nK/at-and-t-sportsnet-pittsburgh-us.png",SPT | AT&T SPORTSNET PITTSBURGH
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2167
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Gv3qnkf/at-and-t-sportsnet-rocky-mountain-us.png",SPT | AT&T SPORTSNET ROCKY MOUNTAIN
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2168
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/3rBNrw5/at-and-t-sportsnet-southwest-us.png",SPT | AT&T SPORTSNET SOUTHWEST
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2169
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/QptvrTG/bein-sports-ca-c.png",SPT | BEIN SPORTS - CA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2170
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/j5x6cvV/bein-sports.png",SPT | BEIN SPORTS - US
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2171
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/p1GpRV5/bein-sports-spanish.png",SPT | BEIN SPORTS EN ESPANOL - LA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2172
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/VqPv9QV/big-ten-network.png",SPT | BIG TEN NETWORK - BTN
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2173
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/GV6hpqS/cbs-sports-network-us.png",SPT | CBS SPORTS NETWORK
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2174
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/SX5m3Bq/fight-network.png",SPT | FIGHT NETWORK - CA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2175
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/NN2g54H/fox-soccer-plus.png",SPT | FOX SOCCER PLUS
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2176
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/4fbmtL1/fs1.png",SPT | FOX SPORTS 1 - FS1
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2177
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Y0m1Fxf/fs2.png",SPT | FOX SPORTS 2 - FS2
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2178
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/mTkqsn9/fox-sports-league-502-hd-au.png",SPT | FOX SPORTS 502 (FOX LEAGUE) - AU
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2180
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/QJBfkrq/fox-sports-503-hd-au.png",SPT | FOX SPORTS 503 - AU
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2181
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/rySycB5/fox-sports-footy-504-hd-au.png",SPT | FOX SPORTS 504 (FOX FOOTY) - AU
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2182
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/8Bjp2XB/fox-sports-505-hd-au.png",SPT | FOX SPORTS 505 - AU
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2183
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/ZVKGKj9/fox-sports-506-hd-au.png",SPT | FOX SPORTS 506 - AU
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2184
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/8cyKFz6/fox-sports-507-hd-au.png",SPT | FOX SPORTS 507 (FOX SPORTS MORE) - AU
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2185
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/dGB7169/fox-sports-racing-ca.png",SPT | FOX SPORTS RACING - CA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2187
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/PZRrm4H/fubo-sports-network.png",SPT | FUBO SPORTS NETWORK
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2188
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/stvqwDC/game-plus-ca.png",SPT | GAME+ - CA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2189
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/TcTw4VJ/gol-tv.png",SPT | GOL TV - US
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2190
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/b1h63HW/nbc-golf.png",SPT | GOLF CHANNEL
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2191
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/J7T9wkk/longhorn-network.png",SPT | LONGHORN NETWORK
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2194
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/z7WBFBv/marquee-sports-network.png",SPT | MARQUEE SPORTS NETWORK
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2195
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/f0j5PGB/masn.png",SPT | MASN
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2196
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/dg6h0R6/masn-2.png",SPT | MASN2
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2197
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/W0QdkCz/mavtv-motorsports.png",SPT | MAV TV MOTORSPORTS
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2198
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/SPN2RN0/msg.png",SPT | MSG
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2199
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/SttsSXP/msg-plus.png",SPT | MSG+
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2200
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/nQrvnwV/nesn-us.png",SPT | NESN
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2202
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/8PdTNnC/nesn-plus-us.png",SPT | NESN PLUS
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2203
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/NWbNyHy/next-level-sports.png",SPT | NEXT LEVEL SPORTS
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2204
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/n8Cmj75/pac-12-network.png",SPT | PAC-12  NETWORK
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2206
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/TPR01PM/pac-12-arizona.png",SPT | PAC-12 ARIZONA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2207
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/kgb2xyx/pac12-bay-area.png",SPT | PAC-12 BAY AREA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2208
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/nMfCsKC/pac-12-los-angeles.png",SPT | PAC-12 LOS ANGELES
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2209
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/rs7f6ZN/pac-12-mountain.png",SPT | PAC-12 MOUNTAIN
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2210
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/X26Cx67/pac-12-oregon.png",SPT | PAC-12 OREGON
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2211
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/DWT0Yxz/pac-12-washington.png",SPT | PAC-12 WASHINGTON
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2212
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/KmfJQcf/red-bull-tv.png",SPT | RED BULL TV
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2213
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/72R5LGz/REV-TV-Logo.png",SPT | REV TV - CA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2214
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/hVtDm1V/root-sports-us.png",SPT | ROOT SPORTS NW - US
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2215
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/grYQQTv/sec-network.png",SPT | SEC NETWORK
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2216
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/p2cJrjN/spectrum-sportsnet-us.png",SPT | SPECTRUM SPORTSNET - LAKERS
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2217
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/R4SjNcP/sportsnet-sn360-ca.png",SPT | SPORTSNET 360 - CA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2219
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/TRKMZrM/sportsnet-sne-ca.png",SPT | SPORTSNET EAST - CA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2220
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/GFqM8dv/sny-us.png",SPT | SPORTSNET NY - SNY
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2221
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/hsLjnnm/sportsnet-sn1-ca.png",SPT | SPORTSNET ONE - CA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2222
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/z2Ngz78/sportsnet-sno-ca.png",SPT | SPORTSNET ONTARIO - CA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2223
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/2y6qj8Z/sportsnet-snp-ca.png",SPT | SPORTSNET PACIFIC - CA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2224
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/PQKwKjr/sportsnet-snw-ca.png",SPT | SPORTSNET WEST - CA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2225
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/B6LSQZ6/sportsnet-snwl-ca.png",SPT | SPORTSNET WORLD - CA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2226
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/RBLSbRk/stadium-us.png",SPT | STADIUM
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2227
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/2nF1Rb5/tennis-channel.png",SPT | TENNIS CHANNEL
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2228
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-1-ca.png",SPT | TSN 1 - CA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2229
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/4p1PbSh/tsn-2-ca.png",SPT | TSN 2 - CA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2230
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/BZbQYV5/tsn-3-ca.png",SPT | TSN 3 - CA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2231
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/4W7z5m9/tsn-4-ca.png",SPT | TSN 4 - CA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2232
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Bq2cfRc/tsn-5-ca.png",SPT | TSN 5 - CA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2233
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/MNgMVTg/ufc-fight-pass.png",SPT | UFC FIGHT PASS 24/7
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2237
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/DrX2fM1/willow-us.png",SPT | WILLOW CRICKET - US
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2239
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/GdWQv5x/world-fishing-network.png",SPT | WORLD FISHING NETWORK
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2241
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/WzQGT0Z/world-poker-tour.png",SPT | WORLD POKER TOUR
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2242
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/sHTpq91/wwe-network.png",SPT | WWE NETWORK
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2243
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/7Vnv01p/yes-network.png",SPT | YES NETWORK
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2244
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/ncdp76B/bt-sport-1-uk.png",SPT | BT SPORT 1 - UK
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2245
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/jrX5fkj/bt-sport-3-uk.png",SPT | BT SPORT 3 - UK
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2247
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/PgGpbQ7/boxnation.png",SPT | BT SPORT BOXNATION - UK
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2248
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/1sjM06R/bt-sport-espn-uk.png",SPT | BT SPORT ESPN - UK
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2249
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/vDPgFqF/eurosport-1.png",SPT | EUROSPORT 1 - UK
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2250
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/WkM8qG1/eurosport-2.png",SPT | EUROSPORT 2 - UK
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2251
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/HNSMSDp/free-sports-uk.png",SPT | FREESPORTS - UK
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2252
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/nsF9JQ4/laliga-tv-uk.png",SPT | LALIGA TV - UK
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2253
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png",SPT | LFC TV - UK
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2254
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/BnfT8KM/premier-sports-1-uk.png",SPT | PREMIER  SPORTS 1 - UK
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2255
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/PwbYZsf/premier-sports-2-uk.png",SPT | PREMIER SPORTS 2 - UK
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2256
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/jZT44tC/mlb-network-strike-zone.png",SPT | MLB Strike Zone
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/11643
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/FOX_Sports_premium_chile_logo.png",SPT | FOX SPORTS PREMIUM - MX
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/13596
+
+#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://i.ibb.co/vjL35zV/supersport-action.png",ZA: SuperSport Action FHD
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/11557
+#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://i.ibb.co/w6hXgHv/supersport-cricket.png",ZA: SuperSport Cricket FHD
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/11559
+#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://i.ibb.co/jz8JJ6j/supersport-football.png",ZA: SuperSport Football FHD
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/11560
+#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://i.ibb.co/PDNVyLV/supersport-golf.png",ZA: SuperSport Golf FHD
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/11561
+#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://i.ibb.co/S0kchzy/grandstand.png",ZA: SuperSport Grandstand FHD
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/11562
+#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://i.ibb.co/cvFK4Cd/supersport-la-liga.png",ZA: SuperSport LaLiga FHD
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/11563
+#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://i.ibb.co/7xhxjDL/supersport-motorsport.png",ZA: SuperSport MotorSport FHD
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/11565
+#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/south-africa/supersport-play-za.png",ZA: SuperSport Play FHD
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/11566
+#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://i.ibb.co/gg1xkKC/supersport-premier-league.png",ZA: SuperSport Premier League FHD
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/11567
+#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://i.ibb.co/JjnHGDz/supersport-rugby.png",ZA: SuperSport Rugby FHD
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/11569
+#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://i.ibb.co/B4DpLX8/supersport-variety-1.png",ZA: SuperSport Variety 1 FHD
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/11571
+#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://i.ibb.co/6FTmzJv/supersport-variety-2.png",ZA: SuperSport Variety 2 FHD
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/11572
+#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://i.ibb.co/h9rjBmB/supersport-variety-3.png",ZA: SuperSport Variety 3 FHD
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/11573
+#EXTINF:-1 group-title="SUPERSPORTS" tvg-logo="https://i.ibb.co/YNF8KRT/supersport-variety-4.png",ZA: SuperSport Variety 4 FHD
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/11574
