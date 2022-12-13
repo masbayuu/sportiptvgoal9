@@ -1,25 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="#1 Astro FWC 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WORLD CUP 2022 Astro FHD",#1 Astro FWC 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium294/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
-
-#EXTINF:-1 tvg-id="" tvg-name="#2 Astro FWC 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WORLD CUP 2022 Astro FHD",#2 Astro FWC 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webdi.openhd.lol/ddyx2/premium294/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="#3 Astro FWC 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WORLD CUP 2022 Astro FHD",#3 Astro FWC 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium295/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
-
-#EXTINF:-1 tvg-id="" tvg-name="#4 Astro FWC 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="WORLD CUP 2022 Astro FHD",#4 Astro FWC 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webdi.openhd.lol/ddyx2/premium295/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
 
 #EXTINF:-1  tvg-name="#1 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][FHD]WORLD CUP 2022" :http-referrer="",#1 BBC
 https://playing.tunnelcdnsw.net/live/bbconeuk/index.m3u8
@@ -140,13 +120,45 @@ https://webdi.openhd.lol/ddyx2/premium191/index.m3u8|ExoPlayerLib/2.13.2=&refere
 
 
 
-#EXTINF:-1  tvg-name="#3 ITV" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[24/7][FHD]WORLD CUP 2022" :http-referrer="",#1 ITV
+#EXTINF:-1  tvg-name="#1 ITV" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[24/7][FHD]WORLD CUP 2022" :http-referrer="",#1 ITV
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036596
+
+#EXTINF:-1 tvg-id="" tvg-name="#1 Astro FWC 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="[24/7][FHD]WORLD CUP 2022",#1 Astro FWC 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium294/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+#EXTINF:-1 tvg-id="" tvg-name="#2 Astro FWC 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="[24/7][FHD]WORLD CUP 2022",#2 Astro FWC 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddyx2/premium294/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="#1 Astro FWC 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="[24/7][FHD]WORLD CUP 2022",#1 Astro FWC 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium295/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+#EXTINF:-1 tvg-id="" tvg-name="#2 Astro FWC 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="[24/7][FHD]WORLD CUP 2022",#2 Astro FWC 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webdi.openhd.lol/ddyx2/premium295/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 group-title="[24/7][FHD]WORLD CUP 2022" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png",#1 beIN MAX 3
+http://elcom-iptv.com:8080/nihad/nihad/2712
+#EXTINF:-1 group-title="[24/7][FHD]WORLD CUP 2022" tvg-logo="http://elcom-iptv.com:8080/images/4da33906ba00f0bdb5f0816a9fb465f5.png",#1 beIN MAX 4
+http://elcom-iptv.com:8080/nihad/nihad/2713
+
 
 #EXTINF:-1  tvg-name="#6 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[24/7][HD]WORLD CUP 2022" :http-referrer="",#1 BBC
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036597
 #EXTINF:-1  tvg-name="#7 FS/FOX" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[24/7][HD]WORLD CUP 2022" :http-referrer="",#1 FS/FOX
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036594
+
+#EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png",#1 beIN MAX 3
+http://elcom-iptv.com:8080/nihad/nihad/2694
+#EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="http://elcom-iptv.com:8080/images/4da33906ba00f0bdb5f0816a9fb465f5.png",#1 beIN MAX 4
+http://elcom-iptv.com:8080/nihad/nihad/2695
+
 
 #EXTINF:-1  tvg-name="#1 eGG Network" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",#1 eGG Network
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036592
@@ -165,19 +177,10 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1  tvg-name="#8 TENNIS CHANNEL INTERNATIONAL 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",#8 TENNIS CHANNEL INTERNATIONAL 2
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="beIN Sport MAX SD" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png",#1 beIN MAX 3
+#EXTINF:-1 group-title="[24/7][SD]WORLD CUP 2022" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png",#1 beIN MAX 3
 http://elcom-iptv.com:8080/nihad/nihad/2700
-#EXTINF:-1 group-title="beIN Sport MAX SD" tvg-logo="http://elcom-iptv.com:8080/images/4da33906ba00f0bdb5f0816a9fb465f5.png",#1 beIN MAX 4
+#EXTINF:-1 group-title="[24/7][SD]WORLD CUP 2022" tvg-logo="http://elcom-iptv.com:8080/images/4da33906ba00f0bdb5f0816a9fb465f5.png",#1 beIN MAX 4
 http://elcom-iptv.com:8080/nihad/nihad/2701
 
-#EXTINF:-1 group-title="beIN Sport MAX HD" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png",#1 beIN MAX 3
-http://elcom-iptv.com:8080/nihad/nihad/2694
-#EXTINF:-1 group-title="beIN Sport MAX HD" tvg-logo="http://elcom-iptv.com:8080/images/4da33906ba00f0bdb5f0816a9fb465f5.png",#1 beIN MAX 4
-http://elcom-iptv.com:8080/nihad/nihad/2695
-
-#EXTINF:-1 group-title="beIN Sport MAX FHD" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png",#1 beIN MAX 3
-http://elcom-iptv.com:8080/nihad/nihad/2712
-#EXTINF:-1 group-title="beIN Sport MAX FHD" tvg-logo="http://elcom-iptv.com:8080/images/4da33906ba00f0bdb5f0816a9fb465f5.png",#1 beIN MAX 4
-http://elcom-iptv.com:8080/nihad/nihad/2713
 
 
