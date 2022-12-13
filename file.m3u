@@ -144,9 +144,9 @@ https://webudi.openhd.lol/lb/premium295/index.m3u8|Referer=https://eplayer.click
 https://webdi.openhd.lol/ddyx2/premium295/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 group-title="[24/7][FHD]WORLD CUP 2022" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png",#1 beIN MAX 3
-http://elcom-iptv.com:8080/nihad/nihad/2712
+http://elcom-iptv.com:8080/nihad/nihad/2712|user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 #EXTINF:-1 group-title="[24/7][FHD]WORLD CUP 2022" tvg-logo="http://elcom-iptv.com:8080/images/4da33906ba00f0bdb5f0816a9fb465f5.png",#1 beIN MAX 4
-http://elcom-iptv.com:8080/nihad/nihad/2713
+http://elcom-iptv.com:8080/nihad/nihad/2713|user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 
 
 #EXTINF:-1  tvg-name="#6 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[24/7][HD]WORLD CUP 2022" :http-referrer="",#1 BBC
@@ -155,8 +155,10 @@ http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036597
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036594
 
 #EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png",#1 beIN MAX 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 http://elcom-iptv.com:8080/nihad/nihad/2694
 #EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="http://elcom-iptv.com:8080/images/4da33906ba00f0bdb5f0816a9fb465f5.png",#1 beIN MAX 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 http://elcom-iptv.com:8080/nihad/nihad/2695
 #EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-1-ca.png",TSN 1 - CA
 http://hardcoremedia.xyz:80/zxwhovub/4166086775/2229
