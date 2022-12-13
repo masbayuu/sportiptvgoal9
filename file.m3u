@@ -113,7 +113,7 @@ https://playing.goforfreedomwme.net/live/itvuk_360p/index.m3u8
 
 
 
-#EXTINF:-1  tvg-name="#1 INDOSIAR" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[24/7][FHD]LOKAL" :http-referrer="",#1 INDOSIAR
+#EXTINF:-1  tvg-name="#1 INDOSIAR" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="[24/7][FHD]LOKAL" :http-referrer="",#1 INDOSIAR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webdi.openhd.lol/ddyx2/premium191/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
