@@ -202,8 +202,25 @@ https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1  tvg-name="#8 TENNIS CHANNEL INTERNATIONAL 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",#8 TENNIS CHANNEL INTERNATIONAL 2
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.useetv.com/logo_nba_ver1.png",NBA
+https://streaming.indihometv.com/joss/133/nba/playlist.m3u8?enc=4MY0K514o5AX8fegkvSWlA&exp=1670953768&encp=Zti6NpCtlfLnqlrTWHYE5w&expp=1670962468
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.useetv.com/pimages/logo_tvn_big.png?v=1",tvN
 https://streaming.indihometv.com/joss/133/tvn/playlist.m3u8?enc=5y1WEB1DZZojtnZThNGhTA&exp=1670952938&encp=bF_Ab03LMxYvpamE_bsjzA&expp=1670961638
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="ttps://www.indihometv.com/pimages/logo_tvnmovies_big.png?v=1",tvN Movies
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.useetv.com/pimages/logo_tvnmovies_big.png?v=1",tvN Movies
 https://streaming.indihometv.com/joss/133/tvnmovies/playlist.m3u8?enc=QU81QB8UTOhN28ev4c4YZw&exp=1670953009&encp=TweX60pbbKt9YgvJEYtiaQ&expp=1670961709
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.indihometv.com/pimages/logo_discovery_big.png?v=1",Discovery Channel
+https://streaming.indihometv.com/joss/133/disco/playlist.m3u8?enc=tMFm_tTe_yCrGdVcvd38Qg&exp=1670954004&encp=GjM1uSVYtQCFq56_gCof0g&expp=1670962704
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.indihometv.com/pimages/logo_tlc_big.png?v=1",TLC
+https://streaming.indihometv.com/joss/133/tlc/playlist.m3u8?enc=OkQRkReXndYx8ZCkn9xv0A&exp=1670954135&encp=AitqR5sRn-1YktbRm2tEbQ&expp=1670962835
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.useetv.com/logo_afc_ver1.png",Asian Food Network - AFN
+https://streaming.indihometv.com/joss/133/afc/playlist.m3u8?enc=_K9JsuCm5L3e1i4kVt3QCQ&exp=1670954572&encp=Qc7mr47TV_ehWwX2wLv1-g&expp=1670963272
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.indihometv.com/pimages/logo_hgtv_big.png",HGTV
+https://streaming.indihometv.com/joss/133/hgtv/playlist.m3u8?enc=Ws19VnrCc69ulY0ATE0Z5w&exp=1670954660&encp=RiYmiwjs4Xx4blrSo_UODg&expp=1670963360
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/pimages/logo_nickelodeon_big.png?v=1",Nickelodeon
+https://streaming.indihometv.com/joss/130/nickelodeon/playlist.m3u8?enc=kZHSWpE1WEAMZ2Wyo_zN9A&exp=1670953520&encp=ue3kcmqeKLQjvNgL5AZH5Q&expp=1670962220
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/pimages/logo_nickjr_big.png?v=1",Nick Junior
+https://streaming.indihometv.com/joss/130/nickjr/playlist.m3u8?enc=bXGBD-PUKK2rHnkehaBB5g&exp=1670953672&encp=JX5uATTxkI_ox_nYjdjuIg&expp=1670962372
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/pimages/logo_indikids_big.png?v=1",IndiKids
+https://streaming.indihometv.com/joss/130/indikids/playlist.m3u8?enc=G4XoMT7y-WJeSbbmCRAQYg&exp=1670954353&encp=V8crulB_upEGXzs63vM-Xg&expp=1670963053
