@@ -160,15 +160,15 @@ http://elcom-iptv.com:8080/nihad/nihad/2694
 http://elcom-iptv.com:8080/nihad/nihad/2695
 #EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-1-ca.png",TSN 1 - CA
 http://hardcoremedia.xyz:80/zxwhovub/4166086775/2229
-#EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-2-ca.png",TSN 2 - CA
+#EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="https://i.ibb.co/4p1PbSh/tsn-2-ca.png",TSN 2 - CA
 http://hardcoremedia.xyz:80/zxwhovub/4166086775/2230
-#EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-3-ca.png",TSN 3 - CA
+#EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="https://i.ibb.co/BZbQYV5/tsn-3-ca.png",TSN 3 - CA
 http://hardcoremedia.xyz:80/zxwhovub/4166086775/2231
-#EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-4-ca.png",TSN 4 - CA
+#EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="https://i.ibb.co/4W7z5m9/tsn-4-ca.png",TSN 4 - CA
 http://hardcoremedia.xyz:80/zxwhovub/4166086775/2232
-#EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-5-ca.png",TSN 5 - CA
+#EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="https://i.ibb.co/Bq2cfRc/tsn-5-ca.png",TSN 5 - CA
 http://hardcoremedia.xyz:80/zxwhovub/4166086775/2233
-#EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SBS_2015.png/150px-SBS_2015.png/tsn-5-ca.png",SBS - AU
+#EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="https://en.wikipedia.org/wiki/SBS_Sport#/media/File:SBS_2015.png",SBS - AU
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
 
 #EXTINF:-1 group-title="[24/7][SD]WORLD CUP 2022" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png",#1 beIN MAX 3
