@@ -204,5 +204,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.useetv.com/pimages/logo_tvn_big.png?v=1",tvN
-https://live-production.secureswiftcontent.com/exp=1670952245~acl=/hls-p/ingest_6362_*/*~hmac=887e762cd0e01bba2484ac21ae4b50954dfdaa7cd231939ecd2237d661c91ba5/hls-p/ingest_6362_720p/index.m3u8
-
+https://streaming.indihometv.com/joss/133/tvn/playlist.m3u8?enc=5y1WEB1DZZojtnZThNGhTA&exp=1670952938&encp=bF_Ab03LMxYvpamE_bsjzA&expp=1670961638
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="ttps://www.indihometv.com/pimages/logo_tvnmovies_big.png?v=1",tvN Movies
+https://streaming.indihometv.com/joss/133/tvnmovies/playlist.m3u8?enc=QU81QB8UTOhN28ev4c4YZw&exp=1670953009&encp=TweX60pbbKt9YgvJEYtiaQ&expp=1670961709
