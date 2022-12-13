@@ -120,7 +120,7 @@ https://webdi.openhd.lol/ddyx2/premium191/index.m3u8|ExoPlayerLib/2.13.2=&refere
 
 
 
-#EXTINF:-1  tvg-name="#1 ITV" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[24/7][FHD]WORLD CUP 2022" :http-referrer="",#1 ITV
+#EXTINF:-1  tvg-name="#1 ITV" tvg-id="" tvg-logo="http://assets.stickpng.com/thumbs/5842ab84a6515b1e0ad75b0d.png" group-title="[24/7][FHD]WORLD CUP 2022" :http-referrer="",#1 ITV
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036596
 
 #EXTINF:-1 tvg-id="" tvg-name="#1 Astro FWC 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="[24/7][FHD]WORLD CUP 2022",#1 Astro FWC 1
@@ -158,6 +158,23 @@ http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036594
 http://elcom-iptv.com:8080/nihad/nihad/2694
 #EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="http://elcom-iptv.com:8080/images/4da33906ba00f0bdb5f0816a9fb465f5.png",#1 beIN MAX 4
 http://elcom-iptv.com:8080/nihad/nihad/2695
+#EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-1-ca.png",TSN 1 - CA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2229
+#EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-2-ca.png",TSN 2 - CA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2230
+#EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-3-ca.png",TSN 3 - CA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2231
+#EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-4-ca.png",TSN 4 - CA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2232
+#EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-5-ca.png",TSN 5 - CA
+http://hardcoremedia.xyz:80/zxwhovub/4166086775/2233
+#EXTINF:-1 group-title="[24/7][HD]WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SBS_2015.png/150px-SBS_2015.png/tsn-5-ca.png",SBS - AU
+https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
+
+#EXTINF:-1 group-title="[24/7][SD]WORLD CUP 2022" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png",#1 beIN MAX 3
+http://elcom-iptv.com:8080/nihad/nihad/2700
+#EXTINF:-1 group-title="[24/7][SD]WORLD CUP 2022" tvg-logo="http://elcom-iptv.com:8080/images/4da33906ba00f0bdb5f0816a9fb465f5.png",#1 beIN MAX 4
+http://elcom-iptv.com:8080/nihad/nihad/2701
 
 
 #EXTINF:-1  tvg-name="#1 eGG Network" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",#1 eGG Network
@@ -177,10 +194,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1  tvg-name="#8 TENNIS CHANNEL INTERNATIONAL 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",#8 TENNIS CHANNEL INTERNATIONAL 2
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="[24/7][SD]WORLD CUP 2022" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png",#1 beIN MAX 3
-http://elcom-iptv.com:8080/nihad/nihad/2700
-#EXTINF:-1 group-title="[24/7][SD]WORLD CUP 2022" tvg-logo="http://elcom-iptv.com:8080/images/4da33906ba00f0bdb5f0816a9fb465f5.png",#1 beIN MAX 4
-http://elcom-iptv.com:8080/nihad/nihad/2701
 
 
 
