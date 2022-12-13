@@ -114,7 +114,7 @@ https://playing.goforfreedomwme.net/live/itvuk_360p/index.m3u8
 
 
 #EXTINF:-1  tvg-name="#1 INDOSIAR" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="[24/7][FHD]LOKAL" :http-referrer="",#1 INDOSIAR
-https://webdi.openhd.lol/ddyx2/premium191/index.m3u8
+https://webdi.openhd.lol/ddyx2/premium191/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 
 
@@ -122,16 +122,16 @@ https://webdi.openhd.lol/ddyx2/premium191/index.m3u8
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036596
 
 #EXTINF:-1 tvg-id="" tvg-name="#1 Astro FWC 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="[24/7][FHD]WORLD CUP 2022",#1 Astro FWC 1
-https://webudi.openhd.lol/lb/premium294/index.m3u8
+https://webudi.openhd.lol/lb/premium294/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="#2 Astro FWC 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="[24/7][FHD]WORLD CUP 2022",#2 Astro FWC 1
-https://webdi.openhd.lol/ddyx2/premium294/index.m3u8
+https://webdi.openhd.lol/ddyx2/premium294/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="#1 Astro FWC 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="[24/7][FHD]WORLD CUP 2022",#1 Astro FWC 2
-https://webudi.openhd.lol/lb/premium295/index.m3u8
+https://webudi.openhd.lol/lb/premium295/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="#2 Astro FWC 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="[24/7][FHD]WORLD CUP 2022",#2 Astro FWC 2
-https://webdi.openhd.lol/ddyx2/premium295/index.m3u8
+https://webdi.openhd.lol/ddyx2/premium295/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1 group-title="[24/7][FHD]WORLD CUP 2022" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png",#1 beIN MAX 3
 http://elcom-iptv.com:8080/nihad/nihad/2712
@@ -140,7 +140,7 @@ https://webdi.openhd.lol/ddyx2/premium298/index.m3u8|ExoPlayerLib/2.13.2=&refere
 #EXTINF:-1 group-title="[24/7][FHD]WORLD CUP 2022" tvg-logo="http://elcom-iptv.com:8080/images/4da33906ba00f0bdb5f0816a9fb465f5.png",#1 beIN MAX 4
 http://elcom-iptv.com:8080/nihad/nihad/2713
 #EXTINF:-1 group-title="[24/7][FHD]WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/0/0b/20210304020200!Rte2hdlogo.png",#1 RTE2
-https://webdi.openhd.lol/ddy1/premium365/index.m3u8
+https://webdi.openhd.lol/ddy1/premium365/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 #EXTINF:-1  tvg-name="#6 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[24/7][HD]WORLD CUP 2022" :http-referrer="",#1 BBC
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036597
