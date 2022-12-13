@@ -149,8 +149,8 @@ http://elcom-iptv.com:8080/nihad/nihad/2712
 https://webdi.openhd.lol/ddyx2/premium298/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #EXTINF:-1 group-title="[24/7][FHD]WORLD CUP 2022" tvg-logo="http://elcom-iptv.com:8080/images/4da33906ba00f0bdb5f0816a9fb465f5.png",#1 beIN MAX 4
 http://elcom-iptv.com:8080/nihad/nihad/2713
-#EXTINF:-1 group-title="[24/7][FHD]WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1200px-RT%C3%892_logo.svg.png",#1 RTE2
-https://webdi.openhd.lol/ddy1/premium365/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+#EXTINF:-1 group-title="[24/7][FHD]WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/0/0b/20210304020200!Rte2hdlogo.png",#1 RTE2
+https://webdi.openhd.lol/ddy1/premium365/index.m3u8
 
 #EXTINF:-1  tvg-name="#6 BBC" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[24/7][HD]WORLD CUP 2022" :http-referrer="",#1 BBC
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036597
