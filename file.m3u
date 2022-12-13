@@ -203,6 +203,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1  tvg-name="#8 TENNIS CHANNEL INTERNATIONAL 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS" :http-referrer="",#8 TENNIS CHANNEL INTERNATIONAL 2
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-
-
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.useetv.com/pimages/logo_tvn_big.png?v=1",tvN
+https://live-production.secureswiftcontent.com/exp=1670952245~acl=/hls-p/ingest_6362_*/*~hmac=887e762cd0e01bba2484ac21ae4b50954dfdaa7cd231939ecd2237d661c91ba5/hls-p/ingest_6362_720p/index.m3u8
 
