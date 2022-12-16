@@ -93,8 +93,8 @@ https://playing.whydontyoustreamwme.com/live/itvuk_360p/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="#4 ITV" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][SD]WORLD CUP 2022",#4 ITV
 https://playing.goforfreedomwme.net/live/itvuk_360p/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LOKAL",INDOSIAR
-https://webdi.openhd.lol/ddyx2/premium191/index.m3u8&referer=https://streamservicehd.click/
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LOKAL",INDOSIAR
+https://webdi.openhd.lol/ddyx2/premium191/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Astro FWC 1 #1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="ASTRO FWC #1",Astro FWC 1 #1
 https://webudi.openhd.lol/lb/premium294/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
@@ -128,11 +128,11 @@ http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53986
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="SKY SPORTS RACING" tvg-logo="http://n2086.securepoint.io:25461/images/ac7527fa9e163778c9d73869d1f6f3eb.png" group-title="SKY SPORTS #1",SKY SPORTS RACING
 http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53987
 
-#EXTINF:-1 tvg-id="ext" tvg-name="eGG Network #1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title=",eGG Network",eGG Network #1
+#EXTINF:-1 tvg-id="Egg.my" tvg-name="eGG Network #1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="eGG Network",eGG Network #1
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036592
-#EXTINF:-1 tvg-id="ext" tvg-name="eGG Network #2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title=",eGG Network",eGG Network #2
+#EXTINF:-1 tvg-id="Egg.my" tvg-name="eGG Network #2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="eGG Network",eGG Network #2
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="eGG Network #3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="eGG Network",eGG Network #3
+#EXTINF:-1 tvg-id="Egg.my" tvg-name="eGG Network #3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="eGG Network",eGG Network #3
 http://rr.dens.tv/h/h22/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Red Bull TV" tvg-logo="https://images.ctfassets.net/9wbsp34au6cz/3MahTdkrffTFVnuawblwdI/ea27b13f6bd84eaab03f5f298bce672d/RBTV_Logo_single_pix_hor_RGB.png" group-title="RED BULL TV #1",Red Bull TV
