@@ -179,14 +179,26 @@ https://webudi.openhd.lol/lb/premium295/index.m3u8|Referer=https://eplayer.click
 https://webdi.openhd.lol/ddyx2/premium295/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 1 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="[24/7][FHD]WORLD CUP 2022",beIN MAX 1 #1
+http://cdn.wanaiptv.net:2052/cremtv.com/123450/252238
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="[24/7][FHD]WORLD CUP 2022",beIN MAX 2 #1
+http://cdn.wanaiptv.net:2052/cremtv.com/123450/252235
 #EXTINF:-1 tvg-id="ext" tvg-name="beIN MAX 3 #1" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png" group-title="[24/7][FHD]WORLD CUP 2022",beIN MAX 3 #1
 http://elcom-iptv.com:8080/nihad/nihad/2712
 
 #EXTINF:-1 tvg-id="ext" tvg-name="beIN MAX 3 #2" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png" group-title="[24/7][FHD]WORLD CUP 2022",beIN MAX 3 #2
 https://webdi.openhd.lol/ddyx2/premium298/index.m3u8&referer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="ext" tvg-name="beIN MAX 4" tvg-logo="http://elcom-iptv.com:8080/images/4da33906ba00f0bdb5f0816a9fb465f5.png" group-title="[24/7][FHD]WORLD CUP 2022",beIN MAX 4
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 3 #3" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="[24/7][FHD]WORLD CUP 2022",beIN MAX 3 #3
+http://cdn.wanaiptv.net:2052/cremtv.com/123450/252232
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN MAX 4 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="[24/7][FHD]WORLD CUP 2022",beIN MAX 4 #1
 http://elcom-iptv.com:8080/nihad/nihad/2713
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 4 #2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="[24/7][FHD]WORLD CUP 2022",beIN MAX 4 #2
+http://cdn.wanaiptv.net:2052/cremtv.com/123450/252229
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 5 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png" group-title="[24/7][FHD]WORLD CUP 2022",beIN MAX 5 #1
+http://cdn.wanaiptv.net:2052/cremtv.com/123450/252226
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 6 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png" group-title="[24/7][FHD]WORLD CUP 2022",beIN MAX 6 #1
+http://cdn.wanaiptv.net:2052/cremtv.com/123450/252223
 #EXTINF:-1 tvg-id="ext" tvg-name="RTE2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/0/0b/20210304020200!Rte2hdlogo.png" group-title="[24/7][FHD]WORLD CUP 2022",RTE2
 https://webdi.openhd.lol/ddy1/premium365/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
@@ -201,14 +213,26 @@ http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53842
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036594
 
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 1 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="[24/7][HD]WORLD CUP 2022",beIN MAX 1 #1
+http://cdn.wanaiptv.net:2052/cremtv.com/123450/252239
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="[24/7][HD]WORLD CUP 2022",beIN MAX 2 #1
+http://cdn.wanaiptv.net:2052/cremtv.com/123450/252236
 #EXTINF:-1 tvg-id="ext" tvg-name="beIN MAX 3 #1" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png" group-title="[24/7][HD]WORLD CUP 2022",beIN MAX 3 #1
 http://elcom-iptv.com:8080/nihad/nihad/2694
 
 #EXTINF:-1 tvg-id="ext" tvg-name="beIN MAX 3 #2" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png" group-title="[24/7][HD]WORLD CUP 2022",beIN MAX 3 #2
 https://webdi.openhd.lol/ddyx2/premium299/index.m3u8&referer=https://streamservicehd.click/
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 3 #3" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="[24/7][HD]WORLD CUP 2022",beIN MAX 3 #3
+http://cdn.wanaiptv.net:2052/cremtv.com/123450/252233
 #EXTINF:-1 tvg-id="ext" tvg-name="beIN MAX 4 #1" tvg-logo="http://elcom-iptv.com:8080/images/4da33906ba00f0bdb5f0816a9fb465f5.png" group-title="[24/7][HD]WORLD CUP 2022",beIN MAX 4 #1
 http://elcom-iptv.com:8080/nihad/nihad/2695
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 4 #2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="[24/7][HD]WORLD CUP 2022",beIN MAX 4 #2
+http://cdn.wanaiptv.net:2052/cremtv.com/123450/252230
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 5 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png" group-title="[24/7][HD]WORLD CUP 2022",beIN MAX 5 #1
+http://cdn.wanaiptv.net:2052/cremtv.com/123450/252227
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 6 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png" group-title="[24/7][HD]WORLD CUP 2022",beIN MAX 6 #1
+http://cdn.wanaiptv.net:2052/cremtv.com/123450/252224
 #EXTINF:-1 tvg-id="ext" tvg-name="TSN 1 #1" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-1-ca.png" group-title="[24/7][HD]WORLD CUP 2022",TSN 1 #1
 http://hardcoremedia.xyz:80/zxwhovub/4166086775/2229
 
@@ -259,14 +283,26 @@ http://hardcoremedia.xyz:80/zxwhovub/4166086775/2178
 
 
 
-#EXTINF:-1 tvg-id="ext" tvg-name="#1 beIN MAX 3" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png" group-title="[24/7][SD]WORLD CUP 2022",#1 beIN MAX 3
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 1 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="[24/7][SD]WORLD CUP 2022",beIN MAX 1 #1
+http://cdn.wanaiptv.net:2052/cremtv.com/123450/252240
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="[24/7][SD]WORLD CUP 2022",beIN MAX 2 #1
+http://cdn.wanaiptv.net:2052/cremtv.com/123450/252237
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN MAX 3 #1" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png" group-title="[24/7][SD]WORLD CUP 2022",beIN MAX 3 #1
 http://elcom-iptv.com:8080/nihad/nihad/2700
 
-#EXTINF:-1 tvg-id="ext" tvg-name="#1 beIN MAX 4" tvg-logo="http://elcom-iptv.com:8080/images/4da33906ba00f0bdb5f0816a9fb465f5.png" group-title="[24/7][SD]WORLD CUP 2022",#1 beIN MAX 4
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 3 #2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="[24/7][SD]WORLD CUP 2022",beIN MAX 3 #2
+http://cdn.wanaiptv.net:2052/cremtv.com/123450/252234
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN MAX 4 #1" tvg-logo="http://elcom-iptv.com:8080/images/4da33906ba00f0bdb5f0816a9fb465f5.png" group-title="[24/7][SD]WORLD CUP 2022",beIN MAX 4 #1
 http://elcom-iptv.com:8080/nihad/nihad/2701
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 4 #2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="[24/7][SD]WORLD CUP 2022",beIN MAX 4 #2
+http://cdn.wanaiptv.net:2052/cremtv.com/123450/252231
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 5 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png" group-title="[24/7][SD]WORLD CUP 2022",beIN MAX 5 #1
+http://cdn.wanaiptv.net:2052/cremtv.com/123450/252228
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 6 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png" group-title="[24/7][SD]WORLD CUP 2022",beIN MAX 6 #1
+http://cdn.wanaiptv.net:2052/cremtv.com/123450/252225
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="GB : SKY SPORTS ARENA" tvg-logo="http://n2086.securepoint.io:25461/images/dcf43f17c2443f54cc7e2a3931d58b1f.png" group-title="SKY SPORTS - UK",GB : SKY SPORTS ARENA
 http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53977
 
@@ -327,6 +363,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TENNIS CHANNEL INTERNATIONAL 2" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS",TENNIS CHANNEL INTERNATIONAL 2
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTM3U
 
 #EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV" tvg-logo="http://n2086.securepoint.io:25461/images/2af7282964931d30caced29fb820a3e7.png" group-title="SPORTS",MUTV
 http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53927
