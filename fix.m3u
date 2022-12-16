@@ -1,402 +1,206 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id.xml,https://iptv-org.github.io/epg/guides/in.xml,https://iptv-org.github.io/epg/guides/my.xml,https://iptv-org.github.io/epg/guides/pt.xml,https://iptv-org.github.io/epg/guides/jp.xml,https://iptv-org.github.io/epg/guides/kr.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/th.xml,https://iptv-org.github.io/epg/guides/pl.xml,https://iptv-org.github.io/epg/guides/nl.xml,https://iptv-org.github.io/epg/guides/hr.xml,https://iptv-org.github.io/epg/guides/za.xml,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/us.xml,https://iptv-org.github.io/epg/guides/sg.xml,https://iptv-org.github.io/epg/guides/qa.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/ro.xml,https://iptv-org.github.io/epg/guides/rs.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/ua.xml,https://iptv-org.github.io/epg/guides/ae.xml,https://iptv-org.github.io/epg/guides/ba.xml,https://iptv-org.github.io/epg/guides/br.xml,https://iptv-org.github.io/epg/guides/es.xml,https://iptv-org.github.io/epg/guides/de.xml,https://iptv-org.github.io/epg/guides/ie.xml"
+
 #EXTINF:-1 tvg-id="ext" tvg-name="#1 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][FHD]WORLD CUP 2022",#1 BBC
 https://playing.tunnelcdnsw.net/live/bbconeuk/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#2 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][FHD]WORLD CUP 2022",#2 BBC
 https://playing.whydontyoustreamwme.com/live/bbctwouk/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#3 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][FHD]WORLD CUP 2022",#3 BBC
 https://playing.goforfreedomwme.net/live/bbconeuk/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#4 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][FHD]WORLD CUP 2022",#4 BBC
 https://turnthe.gameon.tel/live/bbconeuk/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#5 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][FHD]WORLD CUP 2022",#5 BBC
 https://turnthe.gameon.tel/live/bbctwouk/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#6 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][FHD]WORLD CUP 2022",#6 BBC
 https://playing.smoothlikebutterstream.com/live/bbconeuk/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#7 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][FHD]WORLD CUP 2022",#7 BBC
 https://playing.smoothlikebutterstream.com/live/bbctwouk/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#8 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][FHD]WORLD CUP 2022",#8 BBC
 https://playing.whydontyoustreamwme.com/live/bbconeuk/index.m3u8
-
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#1 FS/FOX" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][FHD]WORLD CUP 2022",#1 FS/FOX
 https://playing.tunnelcdnsw.net/live/fs1us/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#2 FS/FOX" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][FHD]WORLD CUP 2022",#2 FS/FOX
 https://playing.whydontyoustreamwme.com/live/fs1us/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#3 FS/FOX" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][FHD]WORLD CUP 2022",#3 FS/FOX
 https://playing.tunnelcdnsw.net/live/fs2us/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#4 FS/FOX" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][FHD]WORLD CUP 2022",#4 FS/FOX
 https://turnthe.gameon.tel/live/fs1us/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#5 FS/FOX" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][FHD]WORLD CUP 2022",#5 FS/FOX
 https://turnthe.gameon.tel/live/fs2us/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#6 FS/FOX" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][FHD]WORLD CUP 2022",#6 FS/FOX
 https://playing.smoothlikebutterstream.com/live/fs2us/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#7 FS/FOX" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][FHD]WORLD CUP 2022",#7 FS/FOX
 https://playing.goforfreedomwme.net/live/fs1us/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#8 FS/FOX" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][FHD]WORLD CUP 2022",#8 FS/FOX
 https://playing.smoothlikebutterstream.com/live/fs1us/index.m3u8
-
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#1 ITV" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][FHD]WORLD CUP 2022",#1 ITV
 https://playing.smoothlikebutterstream.com/live/itvuk/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#2 ITV" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][FHD]WORLD CUP 2022",#2 ITV
 https://playing.smoothlikebutterstream.com/live/itv4uk/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#3 ITV" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][FHD]WORLD CUP 2022",#3 ITV
 https://playing.goforfreedomwme.net/live/itvuk/index.m3u8
 
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#1 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][HD]WORLD CUP 2022",#1 BBC
 https://playing.whydontyoustreamwme.com/live/bbctwouk_720p/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#2 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][HD]WORLD CUP 2022",#2 BBC
 https://playing.goforfreedomwme.net/live/bbconeuk_720p/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#3 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][HD]WORLD CUP 2022",#3 BBC
 https://playing.tunnelcdnsw.net/live/bbctwouk_720p/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#4 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][HD]WORLD CUP 2022",#4 BBC
 https://playing.smoothlikebutterstream.com/live/bbconeuk_720p/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#5 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][HD]WORLD CUP 2022",#5 BBC
 https://playing.tunnelcdnsw.net/live/bbconeuk_720p/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#6 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][HD]WORLD CUP 2022",#6 BBC
 https://playing.whydontyoustreamwme.com/live/bbconeuk_720p/index.m3u8
-
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#1 FS/FOX" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][HD]WORLD CUP 2022",#1 FS/FOX
 https://playing.smoothlikebutterstream.com/live/fs1us_720p/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#2 FS/FOX" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][HD]WORLD CUP 2022",#2 FS/FOX
 https://playing.whydontyoustreamwme.com/live/fs2us_720p/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#3 FS/FOX" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][HD]WORLD CUP 2022",#3 FS/FOX
 https://playing.tunnelcdnsw.net/live/fs1us_720p/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#4 FS/FOX" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][HD]WORLD CUP 2022",#4 FS/FOX
 https://playing.tunnelcdnsw.net/live/fs2us_720p/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#5 FS/FOX" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][HD]WORLD CUP 2022",#5 FS/FOX
 https://turnthe.gameon.tel/live/fs1us_720p/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#6 FS/FOX" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][HD]WORLD CUP 2022",#6 FS/FOX
 https://playing.whydontyoustreamwme.com/live/fs1us_720p/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#7 FS/FOX" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][HD]WORLD CUP 2022",#7 FS/FOX
 https://playing.goforfreedomwme.net/live/fs1us_720p/index.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#1 ITV" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][HD]WORLD CUP 2022",#1 ITV
 https://playing.goforfreedomwme.net/live/itvuk_720p/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#2 ITV" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][HD]WORLD CUP 2022",#2 ITV
 https://playing.goforfreedomwme.net/live/itv4uk_720p/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#3 ITV" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][HD]WORLD CUP 2022",#3 ITV
 https://playing.tunnelcdnsw.net/live/itvuk_720p/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#4 ITV" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][HD]WORLD CUP 2022",#4 ITV
 https://playing.whydontyoustreamwme.com/live/itvuk_720p/index.m3u8
 
-
-
-#EXTINF:-1 tvg-id="ext" tvg-name="#1 CTV" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022 CTV SPORTS HD",#1 CTV
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036592
-
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#1 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][SD]WORLD CUP 2022",#1 BBC
 https://playing.goforfreedomwme.net/live/bbconeuk_360p/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#2 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][SD]WORLD CUP 2022",#2 BBC
 https://playing.smoothlikebutterstream.com/live/bbctwouk_360p/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#3 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][SD]WORLD CUP 2022",#3 BBC
 https://playing.smoothlikebutterstream.com/live/bbconeuk_360p/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#4 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][SD]WORLD CUP 2022",#4 BBC
 https://playing.whydontyoustreamwme.com/live/bbconeuk_360p/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#5 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][SD]WORLD CUP 2022",#5 BBC
 https://playing.tunnelcdnsw.net/live/bbconeuk_360p/index.m3u8
-
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#1 ITV" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][SD]WORLD CUP 2022",#1 ITV
 https://playing.tunnelcdnsw.net/live/itvuk_360p/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#2 ITV" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][SD]WORLD CUP 2022",#2 ITV
 https://playing.tunnelcdnsw.net/live/itv4uk_360p/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#3 ITV" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][SD]WORLD CUP 2022",#3 ITV
 https://playing.whydontyoustreamwme.com/live/itvuk_360p/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#4 ITV" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][SD]WORLD CUP 2022",#4 ITV
 https://playing.goforfreedomwme.net/live/itvuk_360p/index.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="ext" tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="[24/7][FHD]LOKAL",INDOSIAR
+#EXTINF:-1 tvg-id="ext" tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LOKAL",INDOSIAR
 https://webdi.openhd.lol/ddyx2/premium191/index.m3u8&referer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="ext" tvg-name="ITV" tvg-logo="http://assets.stickpng.com/thumbs/5842ab84a6515b1e0ad75b0d.png" group-title="[24/7][FHD]WORLD CUP 2022",ITV
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036596
 
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Astro FWC 1 #1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="[24/7][FHD]WORLD CUP 2022",Astro FWC 1 #1
+#EXTINF:-1 tvg-id="ext" tvg-name="Astro FWC 1 #1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="ASTRO FWC #1",Astro FWC 1 #1
 https://webudi.openhd.lol/lb/premium294/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
-
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Astro FWC 1 #2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="[24/7][FHD]WORLD CUP 2022",Astro FWC 1 #2
-https://webdi.openhd.lol/ddyx2/premium294/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Astro FWC 2 #1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="[24/7][FHD]WORLD CUP 2022",Astro FWC 2 #1
+#EXTINF:-1 tvg-id="ext" tvg-name="Astro FWC 1 #2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="ASTRO FWC #1",Astro FWC 1 #2
+https://webdi.openhd.lol/ddyx2/premium294/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/
+#EXTINF:-1 tvg-id="ext" tvg-name="Astro FWC 2 #1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="ASTRO FWC #1",Astro FWC 2 #1
 https://webudi.openhd.lol/lb/premium295/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+#EXTINF:-1 tvg-id="ext" tvg-name="Astro FWC 2 #2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="ASTRO FWC #1",Astro FWC 2 #2
+https://webdi.openhd.lol/ddyx2/premium295/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/
 
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Astro FWC 2 #2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="[24/7][FHD]WORLD CUP 2022",Astro FWC 2 #2
-https://webdi.openhd.lol/ddyx2/premium295/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 1 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="[24/7][FHD]WORLD CUP 2022",beIN MAX 1 #1
-http://cdn.wanaiptv.net:2052/cremtv.com/123450/252238
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="[24/7][FHD]WORLD CUP 2022",beIN MAX 2 #1
-http://cdn.wanaiptv.net:2052/cremtv.com/123450/252235
-#EXTINF:-1 tvg-id="ext" tvg-name="beIN MAX 3 #1" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png" group-title="[24/7][FHD]WORLD CUP 2022",beIN MAX 3 #1
-http://elcom-iptv.com:8080/nihad/nihad/2712
-
-#EXTINF:-1 tvg-id="ext" tvg-name="beIN MAX 3 #2" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png" group-title="[24/7][FHD]WORLD CUP 2022",beIN MAX 3 #2
-https://webdi.openhd.lol/ddyx2/premium298/index.m3u8&referer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 3 #3" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="[24/7][FHD]WORLD CUP 2022",beIN MAX 3 #3
-http://cdn.wanaiptv.net:2052/cremtv.com/123450/252232
-#EXTINF:-1 tvg-id="ext" tvg-name="beIN MAX 4 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="[24/7][FHD]WORLD CUP 2022",beIN MAX 4 #1
-http://elcom-iptv.com:8080/nihad/nihad/2713
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 4 #2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="[24/7][FHD]WORLD CUP 2022",beIN MAX 4 #2
-http://cdn.wanaiptv.net:2052/cremtv.com/123450/252229
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 5 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png" group-title="[24/7][FHD]WORLD CUP 2022",beIN MAX 5 #1
-http://cdn.wanaiptv.net:2052/cremtv.com/123450/252226
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 6 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png" group-title="[24/7][FHD]WORLD CUP 2022",beIN MAX 6 #1
-http://cdn.wanaiptv.net:2052/cremtv.com/123450/252223
-#EXTINF:-1 tvg-id="ext" tvg-name="RTE2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/0/0b/20210304020200!Rte2hdlogo.png" group-title="[24/7][FHD]WORLD CUP 2022",RTE2
-https://webdi.openhd.lol/ddy1/premium365/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-
-#EXTINF:-1 tvg-id="ext" tvg-name="BBC #1" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[24/7][HD]WORLD CUP 2022",BBC #1
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036597
-
-#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC #2" tvg-logo="http://n2086.securepoint.io:25461/images/daf5bc1e8d2a9b94622bed65458bfb45.png" group-title="[24/7][HD]WORLD CUP 2022",BBC #2
-http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53842
-
-#EXTINF:-1 tvg-id="ext" tvg-name="#7 FS/FOX" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[24/7][HD]WORLD CUP 2022",#1 FS/FOX
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036594
-
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 1 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="[24/7][HD]WORLD CUP 2022",beIN MAX 1 #1
-http://cdn.wanaiptv.net:2052/cremtv.com/123450/252239
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="[24/7][HD]WORLD CUP 2022",beIN MAX 2 #1
-http://cdn.wanaiptv.net:2052/cremtv.com/123450/252236
-#EXTINF:-1 tvg-id="ext" tvg-name="beIN MAX 3 #1" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png" group-title="[24/7][HD]WORLD CUP 2022",beIN MAX 3 #1
-http://elcom-iptv.com:8080/nihad/nihad/2694
-
-#EXTINF:-1 tvg-id="ext" tvg-name="beIN MAX 3 #2" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png" group-title="[24/7][HD]WORLD CUP 2022",beIN MAX 3 #2
-https://webdi.openhd.lol/ddyx2/premium299/index.m3u8&referer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 3 #3" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="[24/7][HD]WORLD CUP 2022",beIN MAX 3 #3
-http://cdn.wanaiptv.net:2052/cremtv.com/123450/252233
-#EXTINF:-1 tvg-id="ext" tvg-name="beIN MAX 4 #1" tvg-logo="http://elcom-iptv.com:8080/images/4da33906ba00f0bdb5f0816a9fb465f5.png" group-title="[24/7][HD]WORLD CUP 2022",beIN MAX 4 #1
-http://elcom-iptv.com:8080/nihad/nihad/2695
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 4 #2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="[24/7][HD]WORLD CUP 2022",beIN MAX 4 #2
-http://cdn.wanaiptv.net:2052/cremtv.com/123450/252230
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 5 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png" group-title="[24/7][HD]WORLD CUP 2022",beIN MAX 5 #1
-http://cdn.wanaiptv.net:2052/cremtv.com/123450/252227
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 6 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png" group-title="[24/7][HD]WORLD CUP 2022",beIN MAX 6 #1
-http://cdn.wanaiptv.net:2052/cremtv.com/123450/252224
-#EXTINF:-1 tvg-id="ext" tvg-name="TSN 1 #1" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-1-ca.png" group-title="[24/7][HD]WORLD CUP 2022",TSN 1 #1
-http://hardcoremedia.xyz:80/zxwhovub/4166086775/2229
-
-#EXTINF:-1 tvg-id="ext" tvg-name="TSN 1 #2" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-1-ca.png" group-title="[24/7][HD]WORLD CUP 2022",TSN 1 #2
-https://webdi.openhd.lol/ddy1/premium365/index.m3u8&referer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="ext" tvg-name="TSN 1 #3" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-1-ca.png" group-title="[24/7][HD]WORLD CUP 2022",TSN 1 #3
-https://webdi.openhd.lol/ddy6/premium111/index.m3u8&referer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1 #4" tvg-logo="http://n2086.securepoint.io:25461/images/4a4aad008c402aae22e509ceeee5fef9.png" group-title="[24/7][HD]WORLD CUP 2022",TSN 1 #4
-http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53805
-
-#EXTINF:-1 tvg-id="ext" tvg-name="TSN 2 #1" tvg-logo="https://i.ibb.co/4p1PbSh/tsn-2-ca.png" group-title="[24/7][HD]WORLD CUP 2022",TSN 2 #1
-http://hardcoremedia.xyz:80/zxwhovub/4166086775/2230
-
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2 #2" tvg-logo="http://n2086.securepoint.io:25461/images/1bc95923b4c4cd579374dec4a4455480.png" group-title="[24/7][HD]WORLD CUP 2022",TSN 2 #2
-http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53806
-
-#EXTINF:-1 tvg-id="ext" tvg-name="TSN 3 #1" tvg-logo="https://i.ibb.co/BZbQYV5/tsn-3-ca.png" group-title="[24/7][HD]WORLD CUP 2022",TSN 3 #1
-http://hardcoremedia.xyz:80/zxwhovub/4166086775/2231
-
-#EXTINF:-1 tvg-id="ext" tvg-name="TSN 3 #2" tvg-logo="https://i.ibb.co/BZbQYV5/tsn-3-ca.png" group-title="[24/7][HD]WORLD CUP 2022",TSN 3 #2
-https://webdi.openhd.lol/ddy6/premium113/index.m3u8&referer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3 #3" tvg-logo="http://n2086.securepoint.io:25461/images/81b3a219cfa11f1cfa5bff963379dff7.png" group-title="[24/7][HD]WORLD CUP 2022",TSN 3 #3
-http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53807
-
-#EXTINF:-1 tvg-id="ext" tvg-name="TSN 4 #1" tvg-logo="https://i.ibb.co/4W7z5m9/tsn-4-ca.png" group-title="[24/7][HD]WORLD CUP 2022",TSN 4 #1
-http://hardcoremedia.xyz:80/zxwhovub/4166086775/2232
-
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4 #2" tvg-logo="http://n2086.securepoint.io:25461/images/366db0f31947b9c29aa8850d70d859f7.png" group-title="[24/7][HD]WORLD CUP 2022",TSN 4 #2
-http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53808
-
-#EXTINF:-1 tvg-id="ext" tvg-name="TSN 5 #1" tvg-logo="https://i.ibb.co/Bq2cfRc/tsn-5-ca.png" group-title="[24/7][HD]WORLD CUP 2022",TSN 5 #1
-http://hardcoremedia.xyz:80/zxwhovub/4166086775/2233
-
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5 #2" tvg-logo="http://n2086.securepoint.io:25461/images/76124c602fb55313e0f6ebf067c825b2.png" group-title="[24/7][HD]WORLD CUP 2022",TSN 5 #2
-http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53809
-
-#EXTINF:-1 tvg-id="ext" tvg-name="SBS - AU" tvg-logo="https://seeklogo.com/images/S/sbs-logo-5894FDCD11-seeklogo.com.png" group-title="[24/7][HD]WORLD CUP 2022",SBS - AU
-https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="FOX SOCCER PLUS" tvg-logo="https://i.ibb.co/NN2g54H/fox-soccer-plus.png" group-title="[24/7][HD]WORLD CUP 2022",FOX SOCCER PLUS
-http://hardcoremedia.xyz:80/zxwhovub/4166086775/2176
-
-#EXTINF:-1 tvg-id="ext" tvg-name="FOX SPORTS 1 - FS1" tvg-logo="https://i.ibb.co/4fbmtL1/fs1.png" group-title="[24/7][HD]WORLD CUP 2022",FOX SPORTS 1 - FS1
-http://hardcoremedia.xyz:80/zxwhovub/4166086775/2177
-
-#EXTINF:-1 tvg-id="ext" tvg-name="FOX SPORTS 2 - FS2" tvg-logo="https://i.ibb.co/Y0m1Fxf/fs2.png" group-title="[24/7][HD]WORLD CUP 2022",FOX SPORTS 2 - FS2
-http://hardcoremedia.xyz:80/zxwhovub/4166086775/2178
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 1 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="[24/7][SD]WORLD CUP 2022",beIN MAX 1 #1
-http://cdn.wanaiptv.net:2052/cremtv.com/123450/252240
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="[24/7][SD]WORLD CUP 2022",beIN MAX 2 #1
-http://cdn.wanaiptv.net:2052/cremtv.com/123450/252237
-#EXTINF:-1 tvg-id="ext" tvg-name="beIN MAX 3 #1" tvg-logo="http://elcom-iptv.com:8080/images/2c27090251fde8275665978969574e74.png" group-title="[24/7][SD]WORLD CUP 2022",beIN MAX 3 #1
-http://elcom-iptv.com:8080/nihad/nihad/2700
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 3 #2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="[24/7][SD]WORLD CUP 2022",beIN MAX 3 #2
-http://cdn.wanaiptv.net:2052/cremtv.com/123450/252234
-#EXTINF:-1 tvg-id="ext" tvg-name="beIN MAX 4 #1" tvg-logo="http://elcom-iptv.com:8080/images/4da33906ba00f0bdb5f0816a9fb465f5.png" group-title="[24/7][SD]WORLD CUP 2022",beIN MAX 4 #1
-http://elcom-iptv.com:8080/nihad/nihad/2701
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 4 #2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="[24/7][SD]WORLD CUP 2022",beIN MAX 4 #2
-http://cdn.wanaiptv.net:2052/cremtv.com/123450/252231
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 5 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX5_DIGITAL_Mono.png" group-title="[24/7][SD]WORLD CUP 2022",beIN MAX 5 #1
-http://cdn.wanaiptv.net:2052/cremtv.com/123450/252228
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 6 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX6_DIGITAL_Mono.png" group-title="[24/7][SD]WORLD CUP 2022",beIN MAX 6 #1
-http://cdn.wanaiptv.net:2052/cremtv.com/123450/252225
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="GB : SKY SPORTS ARENA" tvg-logo="http://n2086.securepoint.io:25461/images/dcf43f17c2443f54cc7e2a3931d58b1f.png" group-title="SKY SPORTS - UK",GB : SKY SPORTS ARENA
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="SKY SPORTS ARENA" tvg-logo="http://n2086.securepoint.io:25461/images/dcf43f17c2443f54cc7e2a3931d58b1f.png" group-title="SKY SPORTS #1",SKY SPORTS ARENA
 http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53977
-
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="GB : SKY SPORTS CRICKET" tvg-logo="http://n2086.securepoint.io:25461/images/dcf43f17c2443f54cc7e2a3931d58b1f.png" group-title="SKY SPORTS - UK",GB : SKY SPORTS CRICKET
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="http://n2086.securepoint.io:25461/images/dcf43f17c2443f54cc7e2a3931d58b1f.png" group-title="SKY SPORTS #1",SKY SPORTS CRICKET
 http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53978
-
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="GB : SKY SPORTS F1" tvg-logo="http://n2086.securepoint.io:25461/images/a9ab091e980651f7a36a359611d6ba92.png" group-title="SKY SPORTS - UK",GB : SKY SPORTS F1
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SKY SPORTS F1" tvg-logo="http://n2086.securepoint.io:25461/images/a9ab091e980651f7a36a359611d6ba92.png" group-title="SKY SPORTS #1",SKY SPORTS F1
 http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53979
-
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="GB : SKY SPORTS FOOTBALL" tvg-logo="http://n2086.securepoint.io:25461/images/67593998f323465bbdf950fe0179275c.png" group-title="SKY SPORTS - UK",GB : SKY SPORTS FOOTBALL
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="http://n2086.securepoint.io:25461/images/67593998f323465bbdf950fe0179275c.png" group-title="SKY SPORTS #1",SKY SPORTS FOOTBALL
 http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53980
-
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="GB : SKY SPORTS GOLF" tvg-logo="http://n2086.securepoint.io:25461/images/bfdf22c5f8816ec8f0caf70925f753ea.png" group-title="SKY SPORTS - UK",GB : SKY SPORTS GOLF
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="SKY SPORTS GOLF" tvg-logo="http://n2086.securepoint.io:25461/images/bfdf22c5f8816ec8f0caf70925f753ea.png" group-title="SKY SPORTS #1",SKY SPORTS GOLF
 http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53981
-
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="GB : SKY SPORTS MAIN EVENT" tvg-logo="http://n2086.securepoint.io:25461/images/82bbaa7fad65436f05649cc9b904df80.png" group-title="SKY SPORTS - UK",GB : SKY SPORTS MAIN EVENT
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="http://n2086.securepoint.io:25461/images/82bbaa7fad65436f05649cc9b904df80.png" group-title="SKY SPORTS #1",SKY SPORTS MAIN EVENT
 http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53982
-
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="GB : SKY SPORTS MIX" tvg-logo="http://n2086.securepoint.io:25461/images/f2d64761853ea926420545a4d34eb361.png" group-title="SKY SPORTS - UK",GB : SKY SPORTS MIX
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="SKY SPORTS MIX" tvg-logo="http://n2086.securepoint.io:25461/images/f2d64761853ea926420545a4d34eb361.png" group-title="SKY SPORTS #1",SKY SPORTS MIX
 http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53983
-
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="GB : SKY SPORTS NEWS" tvg-logo="http://n2086.securepoint.io:25461/images/e37dc6a2760cc059a02cd3734741ae76.png" group-title="SKY SPORTS - UK",GB : SKY SPORTS NEWS
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="SKY SPORTS NEWS" tvg-logo="http://n2086.securepoint.io:25461/images/e37dc6a2760cc059a02cd3734741ae76.png" group-title="SKY SPORTS #1",SKY SPORTS NEWS
 http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53984
-
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="GB : SKY SPORTS NFL" tvg-logo="http://n2086.securepoint.io:25461/images/af168af5d45963061b09b1dd5b01473b.png" group-title="SKY SPORTS - UK",GB : SKY SPORTS NFL
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="SKY SPORTS NFL" tvg-logo="http://n2086.securepoint.io:25461/images/af168af5d45963061b09b1dd5b01473b.png" group-title="SKY SPORTS #1",SKY SPORTS NFL
 http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53985
-
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="GB : SKY SPORTS PREMIER LEAGUE" tvg-logo="http://n2086.securepoint.io:25461/images/fdeb5e06273c362896f5da6804d86295.png" group-title="SKY SPORTS - UK",GB : SKY SPORTS PREMIER LEAGUE
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="http://n2086.securepoint.io:25461/images/fdeb5e06273c362896f5da6804d86295.png" group-title="SKY SPORTS #1",SKY SPORTS PREMIER LEAGUE
 http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53986
-
-#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="GB : SKY SPORTS RACING" tvg-logo="http://n2086.securepoint.io:25461/images/ac7527fa9e163778c9d73869d1f6f3eb.png" group-title="SKY SPORTS - UK",GB : SKY SPORTS RACING
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="SKY SPORTS RACING" tvg-logo="http://n2086.securepoint.io:25461/images/ac7527fa9e163778c9d73869d1f6f3eb.png" group-title="SKY SPORTS #1",SKY SPORTS RACING
 http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53987
 
-#EXTINF:-1 tvg-id="ext" tvg-name="eGG Network #1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="SPORTS",eGG Network #1
+#EXTINF:-1 tvg-id="ext" tvg-name="eGG Network #1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title=",eGG Network",eGG Network #1
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036592
-
-#EXTINF:-1 tvg-id="ext" tvg-name="eGG Network #1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="SPORTS",eGG Network #1
+#EXTINF:-1 tvg-id="ext" tvg-name="eGG Network #2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title=",eGG Network",eGG Network #2
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="eGG Network #3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="SPORTS",eGG Network #3
+#EXTINF:-1 tvg-id="ext" tvg-name="eGG Network #3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="eGG Network",eGG Network #3
 http://rr.dens.tv/h/h22/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="#4 Red Bull TV" tvg-logo="https://images.ctfassets.net/9wbsp34au6cz/3MahTdkrffTFVnuawblwdI/ea27b13f6bd84eaab03f5f298bce672d/RBTV_Logo_single_pix_hor_RGB.png" group-title="SPORTS",#4 Red Bull TV
+#EXTINF:-1 tvg-id="ext" tvg-name="Red Bull TV" tvg-logo="https://images.ctfassets.net/9wbsp34au6cz/3MahTdkrffTFVnuawblwdI/ea27b13f6bd84eaab03f5f298bce672d/RBTV_Logo_single_pix_hor_RGB.png" group-title="RED BULL TV #1",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="SPOTV" tvg-logo="https://www.useetv.com/pimages/logo_spotv_big.png" group-title="SPORTS",SPOTV
+#EXTINF:-1 tvg-id="SPOTV.kr" tvg-name="SPOTV" tvg-logo="https://www.useetv.com/pimages/logo_spotv_big.png" group-title="SPOTV #1",SPOTV
 https://bcovlive-a.akamaihd.net:443/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="SPOTV 2" tvg-logo="https://www.useetv.com/pimages/logo_spotv2_big.png" group-title="SPORTS",SPOTV 2
+#EXTINF:-1 tvg-id="SPOTV2.kr" tvg-name="SPOTV 2" tvg-logo="https://www.useetv.com/pimages/logo_spotv2_big.png" group-title="SPOTV #1",SPOTV 2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="LAX SPORTS" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS",LAX SPORTS
-https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-logo="https://i.postimg.cc/8zbnTgZv/20220927-065139.png" group-title="BT SPORT #1",BT Sport 1
+https://webdi.openhd.lol/lb/premium31/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2" tvg-logo="https://i.postimg.cc/8zbnTgZv/20220927-065139.png" group-title="BT SPORT #1",BT Sport 2
+https://webdi.openhd.lol/lb/premium32/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3" tvg-logo="https://i.postimg.cc/8zbnTgZv/20220927-065139.png" group-title="BT SPORT #1",BT Sport 3
+https://webdi.openhd.lol/lb/premium33/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="BTSport4.uk" tvg-name="BT Sport 4" tvg-logo="https://i.postimg.cc/8zbnTgZv/20220927-065139.png" group-title="BT SPORT #1",BT Sport 4
+https://webdi.openhd.lol/lb/premium34/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="ext" tvg-name="TENNIS CHANNEL INTERNATIONAL 1" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS",TENNIS CHANNEL INTERNATIONAL 1
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1 - FS1" tvg-logo="https://i.postimg.cc/8PNRNJ9y/20220927-063709.png" group-title="FOX/FS SPORTS #1",Fox Sports 1 - FS1
+https://webdi.openhd.lol/lb/premium39/index.m3u8?|referer=https://streamservicehd.click/
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2 - FS2" tvg-logo="https://i.postimg.cc/pXJBFYKb/20220927-063724.png" group-title="FOX/FS SPORTS #1",Fox Sports 2 - FS2
+http://89.187.175.143:80/3056/mpegts
 
-#EXTINF:-1 tvg-id="ext" tvg-name="TENNIS CHANNEL INTERNATIONAL 2" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SPORTS",TENNIS CHANNEL INTERNATIONAL 2
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="SuperSportGrandstand.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Grand
+https://webdi.openhd.lol/lb/premium412/index.m3u8|referer=https://besthdplayer.click/
+#EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport PSL
+https://webdi.openhd.lol/lb/premium413/index.m3u8|referer=https://besthdplayer.click/
+#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Premier League
+https://webdi.openhd.lol/lb/premium414/index.m3u8|referer=https://besthdplayer.click/
+#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Football
+https://webdi.openhd.lol/lb/premium56/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport La Liga
+https://webdi.openhd.lol/lb/premium415/index.m3u8|referer=https://besthdplayer.click/
+#EXTINF:-1 tvg-id="SuperSportVariety.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Variety 1
+https://webdi.openhd.lol/lb/premium416/index.m3u8|referer=https://besthdplayer.click/
+#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Variety 2
+https://webdi.openhd.lol/lb/premium417/index.m3u8|referer=https://besthdplayer.click/
+#EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Variety 3
+https://webdi.openhd.lol/lb/premium418/index.m3u8|referer=https://besthdplayer.click/
+#EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Variety 4
+https://webdi.openhd.lol/lb/premium419/index.m3u8|referer=https://besthdplayer.click/
+#EXTINF:-1 tvg-id="SuperSportAction.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Action
+https://webdi.openhd.lol/lb/premium420/index.m3u8|referer=https://besthdplayer.click/
+#EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Rugby
+https://webdi.openhd.lol/lb/premium421/index.m3u8|referer=https://besthdplayer.click/
+#EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Golf
+https://webdi.openhd.lol/lb/premium422/index.m3u8|referer=https://besthdplayer.click/
+#EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Tennis
+https://webdi.openhd.lol/lb/premium423/index.m3u8|referer=https://besthdplayer.click/
+#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Motorsports
+https://webdi.openhd.lol/lb/premium424/index.m3u8|referer=https://besthdplayer.click/
 
-
-#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV" tvg-logo="http://n2086.securepoint.io:25461/images/2af7282964931d30caced29fb820a3e7.png" group-title="SPORTS",MUTV
-http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53927
-
-#EXTINF:-1 tvg-id="LFCTV.uk" tvg-name="LFC TV" tvg-logo="http://n2086.securepoint.io:25461/images/8d4c08a139e79eb61cc9e98ece5c51ec.png" group-title="SPORTS",LFC TV
-http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53917
-
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB NETWORK" tvg-logo="http://n2086.securepoint.io:25461/images/2b18511837e64eec7b330f092ff7b486.png" group-title="SPORTS",MLB NETWORK
-http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53371
-
-#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV #1" tvg-logo="http://n2086.securepoint.io:25461/images/90798d95849ef4b30c1b5ea8d14e179a.png" group-title="SPORTS",NBA TV #1
-http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/55195
-
-#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV #2" tvg-logo="http://n2086.securepoint.io:25461/images/90798d95849ef4b30c1b5ea8d14e179a.png" group-title="SPORTS",NBA TV #2
-http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53366
-
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US : NFL NETWORK FHD 1080" tvg-logo="http://n2086.securepoint.io:25461/images/12005c95a1e71bd825392a95e965ff15.png" group-title="SPORTS",US : NFL NETWORK FHD 1080
-http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53438
-
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="US : NHL NETWORK FHD 1080" tvg-logo="http://n2086.securepoint.io:25461/images/7efeeaa72cfe67ba4c96433c437250cb.png" group-title="SPORTS",US : NHL NETWORK FHD 1080
-http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53364
-
-#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="US : SEC NETWORK FHD 1080" tvg-logo="http://n2086.securepoint.io:25461/images/5cadb617f3cd5971d7b6938faa45fa05.png" group-title="SPORTS",US : SEC NETWORK FHD 1080
-http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53343
-
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="US : TENNIS CHANNEL FHD 1080" tvg-logo="http://n2086.securepoint.io:25461/images/2568ebd6306508d7fce286137a04ba5f.png" group-title="SPORTS",US : TENNIS CHANNEL FHD 1080
-http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53311
-
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="US : USA NETWORK FHD 1080" tvg-logo="http://n2086.securepoint.io:25461/images/ada53304c5b9e4a839615b6e8f908eb6.png" group-title="SPORTS",US : USA NETWORK FHD 1080
-http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53307
-
-#EXTINF:-1 tvg-id="WorldFishingNetwork.us" tvg-name="US : WORLD FISHING NETWORK FHD 1080" tvg-logo="http://n2086.securepoint.io:25461/images/ee510015f6b6800a49f0389c3aafc779.png" group-title="SPORTS",US : WORLD FISHING NETWORK FHD 1080
-http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53302
-
-#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="US : CBS SPORTS NETWORK FHD 1080" tvg-logo="http://n2086.securepoint.io:25461/images/3ded700a544a255a3ec832e58fa91aa1.png" group-title="SPORTS",US : CBS SPORTS NETWORK FHD 1080
-http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53420
-
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png"  group-title="SKY SPORTS #2",Sky Sports Premier League
+https://webdi.openhd.lol/lb/premium130/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png"  group-title="SKY SPORTS #2",Sky Sports Football
+https://webdi.openhd.lol/lb/premium35/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png"  group-title="SKY SPORTS #2",Sky Sports Main Event
+https://webdi.openhd.lol/lb/premium38/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png"  group-title="SKY SPORTS #2",Sky Sports Action
+https://webdi.openhd.lol/lb/premium37/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png"  group-title="SKY SPORTS #2",Sky Sports Golf
+https://webdi.openhd.lol/lb/premium70/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png"  group-title="SKY SPORTS #2",Sky Sports Mix
+https://webdi.openhd.lol/lb/premium449/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png" group-title="SKY SPORTS #2" ,Sky Sports F1
+https://webdi.openhd.lol/lb/premium60/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png" group-title="SKY SPORTS #2" ,Sky Sports Arena
+https://webdi.openhd.lol/lb/premium36/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png" group-title="SKY SPORTS #2" ,Sky Sports Cricket
+https://webdi.openhd.lol/lb/premium65/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
