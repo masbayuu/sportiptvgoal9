@@ -38,7 +38,6 @@ https://playing.smoothlikebutterstream.com/live/itvuk/index.m3u8
 https://playing.smoothlikebutterstream.com/live/itv4uk/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="#3 ITV" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][FHD]WORLD CUP 2022",#3 ITV
 https://playing.goforfreedomwme.net/live/itvuk/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#1 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][HD]WORLD CUP 2022",#1 BBC
 https://playing.whydontyoustreamwme.com/live/bbctwouk_720p/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="#2 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][HD]WORLD CUP 2022",#2 BBC
@@ -73,7 +72,6 @@ https://playing.goforfreedomwme.net/live/itv4uk_720p/index.m3u8
 https://playing.tunnelcdnsw.net/live/itvuk_720p/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="#4 ITV" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][HD]WORLD CUP 2022",#4 ITV
 https://playing.whydontyoustreamwme.com/live/itvuk_720p/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="#1 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][SD]WORLD CUP 2022",#1 BBC
 https://playing.goforfreedomwme.net/live/bbconeuk_360p/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="#2 BBC" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][SD]WORLD CUP 2022",#2 BBC
@@ -92,10 +90,8 @@ https://playing.tunnelcdnsw.net/live/itv4uk_360p/index.m3u8
 https://playing.whydontyoustreamwme.com/live/itvuk_360p/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="#4 ITV" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="[EVENT ONLY][SD]WORLD CUP 2022",#4 ITV
 https://playing.goforfreedomwme.net/live/itvuk_360p/index.m3u8
-
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LOKAL",INDOSIAR
 https://webdi.openhd.lol/ddyx2/premium191/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Astro FWC 1 #1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="ASTRO FWC #1",Astro FWC 1 #1
 https://webudi.openhd.lol/lb/premium294/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 #EXTINF:-1 tvg-id="ext" tvg-name="Astro FWC 1 #2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="ASTRO FWC #1",Astro FWC 1 #2
@@ -104,7 +100,6 @@ https://webdi.openhd.lol/ddyx2/premium294/index.m3u8|ExoPlayerLib/2.13.2=&refere
 https://webudi.openhd.lol/lb/premium295/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 #EXTINF:-1 tvg-id="ext" tvg-name="Astro FWC 2 #2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="ASTRO FWC #1",Astro FWC 2 #2
 https://webdi.openhd.lol/ddyx2/premium295/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/
-
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="SKY SPORTS ARENA" tvg-logo="http://n2086.securepoint.io:25461/images/dcf43f17c2443f54cc7e2a3931d58b1f.png" group-title="SKY SPORTS #1",SKY SPORTS ARENA
 http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53977
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="http://n2086.securepoint.io:25461/images/dcf43f17c2443f54cc7e2a3931d58b1f.png" group-title="SKY SPORTS #1",SKY SPORTS CRICKET
@@ -127,22 +122,18 @@ http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53985
 http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53986
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="SKY SPORTS RACING" tvg-logo="http://n2086.securepoint.io:25461/images/ac7527fa9e163778c9d73869d1f6f3eb.png" group-title="SKY SPORTS #1",SKY SPORTS RACING
 http://n2086.securepoint.io:25461/Keyboard/Gsha58T4qd/53987
-
 #EXTINF:-1 tvg-id="Egg.my" tvg-name="eGG Network #1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="eGG Network",eGG Network #1
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036592
 #EXTINF:-1 tvg-id="Egg.my" tvg-name="eGG Network #2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="eGG Network",eGG Network #2
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 #EXTINF:-1 tvg-id="Egg.my" tvg-name="eGG Network #3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="eGG Network",eGG Network #3
 http://rr.dens.tv/h/h22/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Red Bull TV" tvg-logo="https://images.ctfassets.net/9wbsp34au6cz/3MahTdkrffTFVnuawblwdI/ea27b13f6bd84eaab03f5f298bce672d/RBTV_Logo_single_pix_hor_RGB.png" group-title="RED BULL TV #1",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
 #EXTINF:-1 tvg-id="SPOTV.kr" tvg-name="SPOTV" tvg-logo="https://www.useetv.com/pimages/logo_spotv_big.png" group-title="SPOTV #1",SPOTV
 https://bcovlive-a.akamaihd.net:443/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 tvg-id="SPOTV2.kr" tvg-name="SPOTV 2" tvg-logo="https://www.useetv.com/pimages/logo_spotv2_big.png" group-title="SPOTV #1",SPOTV 2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-logo="https://i.postimg.cc/8zbnTgZv/20220927-065139.png" group-title="BT SPORT #1",BT Sport 1
 https://webdi.openhd.lol/lb/premium31/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2" tvg-logo="https://i.postimg.cc/8zbnTgZv/20220927-065139.png" group-title="BT SPORT #1",BT Sport 2
@@ -151,56 +142,85 @@ https://webdi.openhd.lol/lb/premium32/index.m3u8?|referer=https://widevine.licen
 https://webdi.openhd.lol/lb/premium33/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="BTSport4.uk" tvg-name="BT Sport 4" tvg-logo="https://i.postimg.cc/8zbnTgZv/20220927-065139.png" group-title="BT SPORT #1",BT Sport 4
 https://webdi.openhd.lol/lb/premium34/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1 - FS1" tvg-logo="https://i.postimg.cc/8PNRNJ9y/20220927-063709.png" group-title="FOX/FS SPORTS #1",Fox Sports 1 - FS1
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1 - FS1 #1" tvg-logo="https://i.postimg.cc/8PNRNJ9y/20220927-063709.png" group-title="FOX/FS SPORTS",Fox Sports 1 - FS1 #1
 https://webdi.openhd.lol/lb/premium39/index.m3u8?|referer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2 - FS2" tvg-logo="https://i.postimg.cc/pXJBFYKb/20220927-063724.png" group-title="FOX/FS SPORTS #1",Fox Sports 2 - FS2
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2 - FS2 #1" tvg-logo="https://i.postimg.cc/pXJBFYKb/20220927-063724.png" group-title="FOX/FS SPORTS",Fox Sports 2 - FS2 #1
 http://89.187.175.143:80/3056/mpegts
-
-#EXTINF:-1  tvg-id="SuperSportGrandstand.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Grand
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1 - FS1 #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png" group-title="FOX/FS SPORTS",Fox Sports 1 - FS1 #2
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/1254
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2 - FS2 #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_2.png" group-title="FOX/FS SPORTS",Fox Sports 2 - FS2 #2
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/1255
+#EXTINF:-1 tvg-id="" tvg-name="Fox Soccer Plus #1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_soccer_plus.png" group-title="FOX/FS SPORTS",Fox Soccer Plus #1
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/1256
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 - FS1 #3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png" group-title="FOX/FS SPORTS",Fox Sports 1 - FS1 #3
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/26855
+#EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-name="Supersport Grand" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Grand
 https://webdi.openhd.lol/lb/premium412/index.m3u8|referer=https://besthdplayer.click/
-#EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport PSL
+#EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="Supersport PSL" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport PSL
 https://webdi.openhd.lol/lb/premium413/index.m3u8|referer=https://besthdplayer.click/
-#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Premier League
+#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="Supersport Premier League" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Premier League
 https://webdi.openhd.lol/lb/premium414/index.m3u8|referer=https://besthdplayer.click/
-#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Football
+#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="Supersport Football" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Football
 https://webdi.openhd.lol/lb/premium56/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport La Liga
+#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-name="Supersport La Liga" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport La Liga
 https://webdi.openhd.lol/lb/premium415/index.m3u8|referer=https://besthdplayer.click/
-#EXTINF:-1 tvg-id="SuperSportVariety.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Variety 1
+#EXTINF:-1 tvg-id="SuperSportVariety.za" tvg-name="Supersport Variety 1" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Variety 1
 https://webdi.openhd.lol/lb/premium416/index.m3u8|referer=https://besthdplayer.click/
-#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Variety 2
+#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-name="Supersport Variety 2" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Variety 2
 https://webdi.openhd.lol/lb/premium417/index.m3u8|referer=https://besthdplayer.click/
-#EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Variety 3
+#EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-name="Supersport Variety 3" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Variety 3
 https://webdi.openhd.lol/lb/premium418/index.m3u8|referer=https://besthdplayer.click/
-#EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Variety 4
+#EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-name="Supersport Variety 4" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Variety 4
 https://webdi.openhd.lol/lb/premium419/index.m3u8|referer=https://besthdplayer.click/
-#EXTINF:-1 tvg-id="SuperSportAction.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Action
+#EXTINF:-1 tvg-id="SuperSportAction.za" tvg-name="Supersport Action" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Action
 https://webdi.openhd.lol/lb/premium420/index.m3u8|referer=https://besthdplayer.click/
-#EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Rugby
+#EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-name="Supersport Rugby" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Rugby
 https://webdi.openhd.lol/lb/premium421/index.m3u8|referer=https://besthdplayer.click/
-#EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Golf
+#EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-name="Supersport Golf" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Golf
 https://webdi.openhd.lol/lb/premium422/index.m3u8|referer=https://besthdplayer.click/
-#EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Tennis
+#EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-name="Supersport Tennis" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Tennis
 https://webdi.openhd.lol/lb/premium423/index.m3u8|referer=https://besthdplayer.click/
-#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Motorsports
+#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-name="Supersport Motorsports" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Motorsports
 https://webdi.openhd.lol/lb/premium424/index.m3u8|referer=https://besthdplayer.click/
-
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png"  group-title="SKY SPORTS #2",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png" group-title="SKY SPORTS #2",Sky Sports Premier League
 https://webdi.openhd.lol/lb/premium130/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png"  group-title="SKY SPORTS #2",Sky Sports Football
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png" group-title="SKY SPORTS #2",Sky Sports Football
 https://webdi.openhd.lol/lb/premium35/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png"  group-title="SKY SPORTS #2",Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png" group-title="SKY SPORTS #2",Sky Sports Main Event
 https://webdi.openhd.lol/lb/premium38/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png"  group-title="SKY SPORTS #2",Sky Sports Action
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png" group-title="SKY SPORTS #2",Sky Sports Action
 https://webdi.openhd.lol/lb/premium37/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png"  group-title="SKY SPORTS #2",Sky Sports Golf
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png" group-title="SKY SPORTS #2",Sky Sports Golf
 https://webdi.openhd.lol/lb/premium70/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png"  group-title="SKY SPORTS #2",Sky Sports Mix
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png" group-title="SKY SPORTS #2",Sky Sports Mix
 https://webdi.openhd.lol/lb/premium449/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png" group-title="SKY SPORTS #2" ,Sky Sports F1
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png" group-title="SKY SPORTS #2",Sky Sports F1
 https://webdi.openhd.lol/lb/premium60/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png" group-title="SKY SPORTS #2" ,Sky Sports Arena
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png" group-title="SKY SPORTS #2",Sky Sports Arena
 https://webdi.openhd.lol/lb/premium36/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png" group-title="SKY SPORTS #2" ,Sky Sports Cricket
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png" group-title="SKY SPORTS #2",Sky Sports Cricket
 https://webdi.openhd.lol/lb/premium65/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="TSN 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_1_ca.png" group-title="TSN #1",TSN 1
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/30749
+#EXTINF:-1 tvg-id="" tvg-name="TSN 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_2_ca.png" group-title="TSN #1",TSN 2
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/30750
+#EXTINF:-1 tvg-id="" tvg-name="TSN 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_3_ca.png" group-title="TSN #1",TSN 3
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/30751
+#EXTINF:-1 tvg-id="" tvg-name="TSN 4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_4_ca.png" group-title="TSN #1",TSN 4
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/30752
+#EXTINF:-1 tvg-id="" tvg-name="TSN 5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_5_ca.png" group-title="TSN #1",TSN 5
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/30753
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network #1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="WWE Network",WWE Network #1
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/30784
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="WWE Network",WWE Network #2
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/149
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network #3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="WWE Network",WWE Network #3
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/1272
+#EXTINF:-1 tvg-id="" tvg-name="USA : UFC #1" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Ultimate-Fighting-Championship-UFC-Logo-700x394.png" group-title="UFC",USA : UFC #1
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/396
+#EXTINF:-1 tvg-id="" tvg-name="NBA #1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nba_tv_us.png" group-title="NBA",NBA #1
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/146
+#EXTINF:-1 tvg-id="" tvg-name="NBA #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nba_tv_us.png" group-title="NBA",NBA #2
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/26863
+#EXTINF:-1 tvg-id="" tvg-name="USA NETWORK #1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/usa_network_east.png" group-title="USA NETWORK",USA NETWORK #1
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/1222
