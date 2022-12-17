@@ -150,9 +150,9 @@ http://89.187.175.143:80/3056/mpegts
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/1254
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2 - FS2 #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_2.png" group-title="FOX/FS SPORTS",Fox Sports 2 - FS2 #2
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/1255
-#EXTINF:-1 tvg-id="" tvg-name="Fox Soccer Plus #1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_soccer_plus.png" group-title="FOX/FS SPORTS",Fox Soccer Plus #1
+#EXTINF:-1 tvg-id="ext" tvg-name="Fox Soccer Plus #1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_soccer_plus.png" group-title="FOX/FS SPORTS",Fox Soccer Plus #1
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/1256
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 - FS1 #3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png" group-title="FOX/FS SPORTS",Fox Sports 1 - FS1 #3
+#EXTINF:-1 tvg-id="ext" tvg-name="Fox Sports 1 - FS1 #3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png" group-title="FOX/FS SPORTS",Fox Sports 1 - FS1 #3
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/26855
 #EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-name="Supersport Grand" tvg-logo="https://i.postimg.cc/L4ZCn1y2/20220927-064532.png" group-title="SUPERSPORTS #1",Supersport Grand
 https://webdi.openhd.lol/lb/premium412/index.m3u8|referer=https://besthdplayer.click/
@@ -200,27 +200,35 @@ https://webdi.openhd.lol/lb/premium60/index.m3u8?|referer=https://widevine.licen
 https://webdi.openhd.lol/lb/premium36/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png" group-title="SKY SPORTS #2",Sky Sports Cricket
 https://webdi.openhd.lol/lb/premium65/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="TSN 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_1_ca.png" group-title="TSN #1",TSN 1
+#EXTINF:-1 tvg-id="ext" tvg-name="TSN 1 #1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_1_ca.png" group-title="TSN",TSN 1 #1
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/30749
-#EXTINF:-1 tvg-id="" tvg-name="TSN 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_2_ca.png" group-title="TSN #1",TSN 2
+#EXTINF:-1 tvg-id="ext" tvg-name="TSN 2 #1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_2_ca.png" group-title="TSN",TSN 2 #1
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/30750
-#EXTINF:-1 tvg-id="" tvg-name="TSN 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_3_ca.png" group-title="TSN #1",TSN 3
+#EXTINF:-1 tvg-id="ext" tvg-name="TSN 3 #1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_3_ca.png" group-title="TSN",TSN 3 #1
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/30751
-#EXTINF:-1 tvg-id="" tvg-name="TSN 4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_4_ca.png" group-title="TSN #1",TSN 4
+#EXTINF:-1 tvg-id="ext" tvg-name="TSN 4 #1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_4_ca.png" group-title="TSN",TSN 4 #1
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/30752
-#EXTINF:-1 tvg-id="" tvg-name="TSN 5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_5_ca.png" group-title="TSN #1",TSN 5
+#EXTINF:-1 tvg-id="ext" tvg-name="TSN 5 #1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_5_ca.png" group-title="TSN",TSN 5 #1
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/30753
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network #1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="WWE Network",WWE Network #1
+#EXTINF:-1 tvg-id="ext" tvg-name="WWE Network #1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="WWE Network",WWE Network #1
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/30784
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="WWE Network",WWE Network #2
+#EXTINF:-1 tvg-id="ext" tvg-name="WWE Network #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="WWE Network",WWE Network #2
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/149
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network #3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="WWE Network",WWE Network #3
+#EXTINF:-1 tvg-id="ext" tvg-name="WWE Network #3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="WWE Network",WWE Network #3
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/1272
-#EXTINF:-1 tvg-id="" tvg-name="USA : UFC #1" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Ultimate-Fighting-Championship-UFC-Logo-700x394.png" group-title="UFC",USA : UFC #1
+#EXTINF:-1 tvg-id="ext" tvg-name="USA : UFC #1" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Ultimate-Fighting-Championship-UFC-Logo-700x394.png" group-title="UFC",USA : UFC #1
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/396
-#EXTINF:-1 tvg-id="" tvg-name="NBA #1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nba_tv_us.png" group-title="NBA",NBA #1
+#EXTINF:-1 tvg-id="ext" tvg-name="NBA #1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nba_tv_us.png" group-title="NBA",NBA #1
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/146
-#EXTINF:-1 tvg-id="" tvg-name="NBA #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nba_tv_us.png" group-title="NBA",NBA #2
+#EXTINF:-1 tvg-id="ext" tvg-name="NBA #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nba_tv_us.png" group-title="NBA",NBA #2
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/26863
-#EXTINF:-1 tvg-id="" tvg-name="USA NETWORK #1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/usa_network_east.png" group-title="USA NETWORK",USA NETWORK #1
+#EXTINF:-1 tvg-id="ext" tvg-name="USA NETWORK #1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/usa_network_east.png" group-title="USA NETWORK",USA NETWORK #1
 http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/1222
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 3 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="beIN SPORTS MAX",beIN SPORTS MAX 3 #1
+http://king4k.live:8080/pro0343/502004039/26732
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 4 #1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="beIN SPORTS MAX",beIN SPORTS MAX 4 #1
+http://king4k.live:8080/pro0343/502004039/26733
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 3 #2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="beIN SPORTS MAX",beIN SPORTS MAX 3 #2
+http://king4k.live:8080/pro0343/502004039/26714
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 4 #2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="beIN SPORTS MAX",beIN SPORTS MAX 4 #2
+http://king4k.live:8080/pro0343/502004039/26715
